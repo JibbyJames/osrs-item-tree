@@ -1,0 +1,5 @@
+**/ge/**
+**/backups/**
+**/output/**
+**/__pycache__/**
+__init__.py

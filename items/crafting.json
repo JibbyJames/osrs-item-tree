@@ -1,0 +1,3049 @@
+{
+    "1759": {
+        "id": "1759",
+        "name": "Ball of wool",
+        "methods": [
+            {
+                "name": "spinning",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 2.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1737",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1777": {
+        "id": "1777",
+        "name": "Bow string",
+        "methods": [
+            {
+                "name": "spinning",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 10,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1779",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "9438": {
+        "id": "9438",
+        "name": "Crossbow string",
+        "methods": [
+            {
+                "name": "spinning sinew",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 10,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "9436",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "spinning roots",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 10,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6043",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "spinning roots",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 10,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6045",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "spinning roots",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 10,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6047",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "spinning roots",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 10,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6049",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "spinning roots",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 10,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6051",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "6038": {
+        "id": "6038",
+        "name": "Magic string",
+        "methods": [
+            {
+                "name": "spinning",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 19,
+                        "xp": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6051",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "954": {
+        "id": "954",
+        "name": "Rope",
+        "methods": [
+            {
+                "name": "spinning",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 30,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "10814",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "3224": {
+        "id": "3224",
+        "name": "Strip of cloth",
+        "methods": [
+            {
+                "name": "weaving",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 10,
+                        "xp": 12
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1759",
+                        "quantity": 4
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "5418": {
+        "id": "5418",
+        "name": "Empty sack",
+        "methods": [
+            {
+                "name": "weaving",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 21,
+                        "xp": 38
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "5931",
+                        "quantity": 4
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21652": {
+        "id": "21652",
+        "name": "Drift net",
+        "methods": [
+            {
+                "name": "weaving",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 26,
+                        "xp": 55
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "5931",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "5376": {
+        "id": "5376",
+        "name": "Basket",
+        "methods": [
+            {
+                "name": "weaving",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 36,
+                        "xp": 56
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "5933",
+                        "quantity": 6
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1761": {
+        "id": "1761",
+        "name": "Soft clay",
+        "methods": [
+            {
+                "name": "water-on-clay",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "434",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            },{
+                "name": "humidify-steam-battlestaff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 68,
+                        "xp": 65
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "9075",
+                        "quantity": 0.0375
+                    }
+                ],
+                "members": true
+            },{
+                "name": "mining",
+                "skills": [
+                    {
+                        "name": "mining",
+                        "lvl": 70,
+                        "xp": 5
+                    }
+                ],
+                "materials": [],
+                "members": true
+            }
+        ]
+    },
+    "1931": {
+        "id": "1931",
+        "name": "Pot",
+        "methods": [
+            {
+                "name": "pottery-wheel",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 12.6
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1761",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2313": {
+        "id": "2313",
+        "name": "Pie dish",
+        "methods": [
+            {
+                "name": "pottery-wheel",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 7,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1761",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1923": {
+        "id": "1923",
+        "name": "Bowl",
+        "methods": [
+            {
+                "name": "pottery-wheel",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 8,
+                        "xp": 33
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1761",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "5350": {
+        "id": "5350",
+        "name": "Empty plant pot",
+        "methods": [
+            {
+                "name": "pottery-wheel",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 19,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1761",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "4440": {
+        "id": "4440",
+        "name": "Pot lid",
+        "methods": [
+            {
+                "name": "pottery-wheel",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 25,
+                        "xp": 40
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1761",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1741": {
+        "id": "1741",
+        "name": "Leather",
+        "methods": [
+            {
+                "name": "tanner-npc",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1739",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1743": {
+        "id": "1743",
+        "name": "Hard leather",
+        "methods": [
+            {
+                "name": "tanner-npc",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1739",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1059": {
+        "id": "1059",
+        "name": "Leather gloves",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 13.8
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1061": {
+        "id": "1061",
+        "name": "Leather boots",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 7,
+                        "xp": 16.25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1167": {
+        "id": "1167",
+        "name": "Leather cowl",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 9,
+                        "xp": 18.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1063": {
+        "id": "1063",
+        "name": "Leather vambraces",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 11,
+                        "xp": 22
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1129": {
+        "id": "1129",
+        "name": "Leather body",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 14,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1095": {
+        "id": "1095",
+        "name": "Leather chaps",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 18,
+                        "xp": 27
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1131": {
+        "id": "1131",
+        "name": "Hardleather body",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 28,
+                        "xp": 35
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1743",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "10077": {
+        "id": "10077",
+        "name": "Spiky vambraces",
+        "methods": [
+            {
+                "name": "attach-item",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 32,
+                        "xp": 6
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1063",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "10113",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1169": {
+        "id": "1169",
+        "name": "Coif",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 38,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "22269": {
+        "id": "22269",
+        "name": "Hard leather shield",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 41,
+                        "xp": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "22251",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "1743",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "4819",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1133": {
+        "id": "1133",
+        "name": "Studded body",
+        "methods": [
+            {
+                "name": "attach-item",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 41,
+                        "xp": 40
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2370",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1097": {
+        "id": "1097",
+        "name": "Studded chaps",
+        "methods": [
+            {
+                "name": "attach-item",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 44,
+                        "xp": 42
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1741",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2370",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1745": {
+        "id": "1745",
+        "name": "Green dragon leather",
+        "methods": [
+            {
+                "name": "tanner-npc",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1753",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "tan-leather-spell-fire-staff",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 78,
+                        "xp": 81
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1753",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "561",
+                        "quantity": 0.2
+                    },
+                    {
+                        "id": "9075",
+                        "quantity": 0.4
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1065": {
+        "id": "1065",
+        "name": "Green d'hide vamb",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 57,
+                        "xp": 62
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1745",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1099": {
+        "id": "1099",
+        "name": "Green d'hide chaps",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 60,
+                        "xp": 124
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1745",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "22275": {
+        "id": "22275",
+        "name": "Green d'hide shield",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 62,
+                        "xp": 124
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1745",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "22257",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1539",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1135": {
+        "id": "1135",
+        "name": "Green d'hide body",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 63,
+                        "xp": 186
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1745",
+                        "quantity": 3
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2505": {
+        "id": "2505",
+        "name": "Blue dragon leather",
+        "methods": [
+            {
+                "name": "tanner-npc",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1751",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "tan-leather-spell-fire-staff",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 78,
+                        "xp": 81
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1751",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "561",
+                        "quantity": 0.2
+                    },
+                    {
+                        "id": "9075",
+                        "quantity": 0.4
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2487": {
+        "id": "2487",
+        "name": "Blue d'hide vamb",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 66,
+                        "xp": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2505",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2493": {
+        "id": "2493",
+        "name": "Blue d'hide chaps",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 68,
+                        "xp": 140
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2505",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "22278": {
+        "id": "22278",
+        "name": "Blue d'hide shield",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 69,
+                        "xp": 140
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2505",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "22260",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "4822",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2499": {
+        "id": "2499",
+        "name": "Blue d'hide body",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 71,
+                        "xp": 210
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2505",
+                        "quantity": 3
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2507": {
+        "id": "2507",
+        "name": "Red dragon leather",
+        "methods": [
+            {
+                "name": "tanner-npc",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1749",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "tan-leather-spell-fire-staff",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 78,
+                        "xp": 81
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1749",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "561",
+                        "quantity": 0.2
+                    },
+                    {
+                        "id": "9075",
+                        "quantity": 0.4
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2489": {
+        "id": "2489",
+        "name": "Red d'hide vamb",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 73,
+                        "xp": 78
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2507",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2495": {
+        "id": "2495",
+        "name": "Red d'hide chaps",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 75,
+                        "xp": 156
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2507",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "22281": {
+        "id": "22281",
+        "name": "Red d'hide shield",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 76,
+                        "xp": 156
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2507",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "22263",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "4823",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2501": {
+        "id": "2501",
+        "name": "Red d'hide body",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 77,
+                        "xp": 234
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2507",
+                        "quantity": 3
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2509": {
+        "id": "2509",
+        "name": "Black dragon leather",
+        "methods": [
+            {
+                "name": "tanner-npc",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1747",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            },
+            {
+                "name": "tan-leather-spell-fire-staff",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 78,
+                        "xp": 81
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1747",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "561",
+                        "quantity": 0.2
+                    },
+                    {
+                        "id": "9075",
+                        "quantity": 0.4
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2491": {
+        "id": "2491",
+        "name": "Black d'hide vamb",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 79,
+                        "xp": 86
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2509",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2497": {
+        "id": "2497",
+        "name": "Black d'hide chaps",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 82,
+                        "xp": 172
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2509",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "22284": {
+        "id": "22284",
+        "name": "Black d'hide shield",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 83,
+                        "xp": 172
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2509",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "22266",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "4824",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2503": {
+        "id": "2503",
+        "name": "Black d'hide body",
+        "methods": [
+            {
+                "name": "needle-and-thread",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 84,
+                        "xp": 258
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2509",
+                        "quantity": 3
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1609": {
+        "id": "1609",
+        "name": "Opal",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1625",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1611": {
+        "id": "1611",
+        "name": "Jade",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 13,
+                        "xp": 20
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1627",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1613": {
+        "id": "1613",
+        "name": "Red topaz",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 16,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1629",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1607": {
+        "id": "1607",
+        "name": "Sapphire",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 20,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1623",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1605": {
+        "id": "1605",
+        "name": "Emerald",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 27,
+                        "xp": 67.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1621",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1603": {
+        "id": "1603",
+        "name": "Ruby",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 34,
+                        "xp": 85
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1619",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1601": {
+        "id": "1601",
+        "name": "Diamond",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 43,
+                        "xp": 107.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1617",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1615": {
+        "id": "1615",
+        "name": "Dragonstone",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 55,
+                        "xp": 137.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1631",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "6573": {
+        "id": "6573",
+        "name": "Onyx",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 67,
+                        "xp": 167.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6571",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19493": {
+        "id": "19493",
+        "name": "Zenyte",
+        "methods": [
+            {
+                "name": "chisel-gem-cut",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 89,
+                        "xp": 200
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19496",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21081": {
+        "id": "21081",
+        "name": "Opal ring",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 1,
+                        "xp": 10
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1609",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21090": {
+        "id": "21090",
+        "name": "Opal necklace",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 16,
+                        "xp": 35
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1609",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21117": {
+        "id": "21117",
+        "name": "Opal bracelet",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 22,
+                        "xp": 45
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1609",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21108": {
+        "id": "21108",
+        "name": "Opal amulet",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 27,
+                        "xp": 55
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1609",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21084": {
+        "id": "21084",
+        "name": "Jade ring",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 13,
+                        "xp": 32
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1611",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21093": {
+        "id": "21093",
+        "name": "Jade necklace",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 25,
+                        "xp": 54
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1611",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21120": {
+        "id": "21120",
+        "name": "Jade bracelet",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 29,
+                        "xp": 60
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1611",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21111": {
+        "id": "21111",
+        "name": "Jade amulet",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 34,
+                        "xp": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1611",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21087": {
+        "id": "21087",
+        "name": "Topaz ring",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 16,
+                        "xp": 35
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1613",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21096": {
+        "id": "21096",
+        "name": "Topaz necklace",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 32,
+                        "xp": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1613",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21123": {
+        "id": "21123",
+        "name": "Topaz bracelet",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 38,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1613",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21114": {
+        "id": "21114",
+        "name": "Topaz amulet",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 45,
+                        "xp": 80
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1613",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1635": {
+        "id": "1635",
+        "name": "Gold ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 5,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1654": {
+        "id": "1654",
+        "name": "Gold necklace",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 6,
+                        "xp": 20
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "11069": {
+        "id": "11069",
+        "name": "Gold bracelet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 7,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1692": {
+        "id": "1692",
+        "name": "Gold amulet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 8,
+                        "xp": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1637": {
+        "id": "1637",
+        "name": "Sapphire ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 20,
+                        "xp": 40
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1607",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1656": {
+        "id": "1656",
+        "name": "Sapphire necklace",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 22,
+                        "xp": 55
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1607",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "11072": {
+        "id": "11072",
+        "name": "Sapphire bracelet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 23,
+                        "xp": 60
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1607",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1694": {
+        "id": "1694",
+        "name": "Sapphire amulet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 24,
+                        "xp": 65
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1607",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1639": {
+        "id": "1639",
+        "name": "Emerald ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 27,
+                        "xp": 55
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1605",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1658": {
+        "id": "1658",
+        "name": "Emerald necklace",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 29,
+                        "xp": 60
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1605",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "11076": {
+        "id": "11076",
+        "name": "Emerald bracelet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 30,
+                        "xp": 65
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1605",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1696": {
+        "id": "1696",
+        "name": "Emerald amulet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 31,
+                        "xp": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1605",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1641": {
+        "id": "1641",
+        "name": "Ruby ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 34,
+                        "xp": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1603",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1660": {
+        "id": "1660",
+        "name": "Ruby necklace",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 40,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1603",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "11085": {
+        "id": "11085",
+        "name": "Ruby bracelet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 42,
+                        "xp": 80
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1603",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1698": {
+        "id": "1698",
+        "name": "Ruby amulet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 50,
+                        "xp": 85
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1603",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1643": {
+        "id": "1643",
+        "name": "Diamond ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 43,
+                        "xp": 85
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1601",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1662": {
+        "id": "1662",
+        "name": "Diamond necklace",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 56,
+                        "xp": 90
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1601",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "11092": {
+        "id": "11092",
+        "name": "Diamond bracelet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 58,
+                        "xp": 95
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1601",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1700": {
+        "id": "1700",
+        "name": "Diamond amulet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 70,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1601",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1645": {
+        "id": "1645",
+        "name": "Dragonstone ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 55,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1615",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1664": {
+        "id": "1664",
+        "name": "Dragon necklace",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 72,
+                        "xp": 105
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1615",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11115": {
+        "id": "11115",
+        "name": "Dragonstone bracelet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 74,
+                        "xp": 110
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1615",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1702": {
+        "id": "1702",
+        "name": "Dragonstone amulet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 80,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1615",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11866": {
+        "id": "11866",
+        "name": "Slayer ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 75,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "4155",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21268": {
+        "id": "21268",
+        "name": "Slayer ring (eternal)",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 75,
+                        "xp": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21270",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "6575": {
+        "id": "6575",
+        "name": "Onyx ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 67,
+                        "xp": 115
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6573",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "6577": {
+        "id": "6577",
+        "name": "Onyx necklace",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 82,
+                        "xp": 120
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6573",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11130": {
+        "id": "11130",
+        "name": "Onyx bracelet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 84,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6573",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "6581": {
+        "id": "6581",
+        "name": "Onyx amulet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 90,
+                        "xp": 165
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6573",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19538": {
+        "id": "19538",
+        "name": "Zenyte ring",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 89,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19493",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19535": {
+        "id": "19535",
+        "name": "Zenyte necklace",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 92,
+                        "xp": 165
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19493",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19532": {
+        "id": "19532",
+        "name": "Zenyte bracelet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 95,
+                        "xp": 180
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19493",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19541": {
+        "id": "19541",
+        "name": "Zenyte amulet",
+        "methods": [
+            {
+                "name": "gold-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 98,
+                        "xp": 200
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19493",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "2357",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "9382": {
+        "id": "9382",
+        "name": "Silver bolts (unf)",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 21,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1395": {
+        "id": "1395",
+        "name": "Water battlestaff",
+        "methods": [
+            {
+                "name": "attach-item",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 54,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1391",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "571",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1399": {
+        "id": "1399",
+        "name": "Earth battlestaff",
+        "methods": [
+            {
+                "name": "attach-item",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 58,
+                        "xp": 112.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1391",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "575",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1393": {
+        "id": "1393",
+        "name": "Fire battlestaff",
+        "methods": [
+            {
+                "name": "attach-item",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 62,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1391",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "569",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1397": {
+        "id": "1397",
+        "name": "Air battlestaff",
+        "methods": [
+            {
+                "name": "attach-item",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 66,
+                        "xp": 137.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1391",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "573",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1714": {
+        "id": "1714",
+        "name": "Unstrung symbol",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 16,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1720": {
+        "id": "1720",
+        "name": "Unstrung emblem",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 17,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "5525": {
+        "id": "5525",
+        "name": "Tiara",
+        "methods": [
+            {
+                "name": "silver-bar-furnace",
+                "skills": [
+                    {
+                        "name": "crafting",
+                        "lvl": 23,
+                        "xp": 52.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2355",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    }
+}

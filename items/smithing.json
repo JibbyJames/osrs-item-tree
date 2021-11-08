@@ -1,0 +1,4118 @@
+{
+    "2349": {
+        "id": "2349",
+        "name": "Bronze bar",
+        "methods": [
+            {
+                "name": "furnace-bar-smelting",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 1,
+                        "xp": 6.2
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "438",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "436",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2351": {
+        "id": "2351",
+        "name": "Iron bar",
+        "methods": [
+            {
+                "name": "furnace-bar-smelting",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 15,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "440",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2355": {
+        "id": "2355",
+        "name": "Silver bar",
+        "methods": [
+            {
+                "name": "furnace-bar-smelting",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 20,
+                        "xp": 13.67
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "442",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2353": {
+        "id": "2353",
+        "name": "Steel bar",
+        "methods": [
+            {
+                "name": "furnace-bar-smelting",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 30,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "440",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "453",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2357": {
+        "id": "2357",
+        "name": "Gold bar",
+        "methods": [
+            {
+                "name": "furnace-bar-smelting",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 40,
+                        "xp": 22.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "444",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2359": {
+        "id": "2359",
+        "name": "Mithril bar",
+        "methods": [
+            {
+                "name": "furnace-bar-smelting",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 50,
+                        "xp": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "447",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "453",
+                        "quantity": 4
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2361": {
+        "id": "2361",
+        "name": "Adamantite bar",
+        "methods": [
+            {
+                "name": "furnace-bar-smelting",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 70,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "449",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "453",
+                        "quantity": 6
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2363": {
+        "id": "2363",
+        "name": "Runite bar",
+        "methods": [
+            {
+                "name": "furnace-bar-smelting",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 85,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "451",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "453",
+                        "quantity": 8
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1205": {
+        "id": "1205",
+        "name": "Bronze dagger",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 1,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1351": {
+        "id": "1351",
+        "name": "Bronze axe",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 1,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1422": {
+        "id": "1422",
+        "name": "Bronze mace",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 2,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1139": {
+        "id": "1139",
+        "name": "Bronze med helm",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 3,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "9375": {
+        "id": "9375",
+        "name": "Bronze bolts (unf)",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 3,
+                        "xp": 1.25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1794": {
+        "id": "1794",
+        "name": "Bronze wire",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 4,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1277": {
+        "id": "1277",
+        "name": "Bronze sword",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 4,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "819": {
+        "id": "819",
+        "name": "Bronze dart tip",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 4,
+                        "xp": 1.25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "4819": {
+        "id": "4819",
+        "name": "Bronze nails",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 4,
+                        "xp": 0.8334
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "39": {
+        "id": "39",
+        "name": "Bronze arrowtips",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 5,
+                        "xp": 0.8334
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1321": {
+        "id": "1321",
+        "name": "Bronze scimitar",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 5,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1237": {
+        "id": "1237",
+        "name": "Bronze spear",
+        "methods": [
+            {
+                "name": "bronze-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 5,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1511",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11367": {
+        "id": "11367",
+        "name": "Bronze hasta",
+        "methods": [
+            {
+                "name": "bronze-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 5,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1511",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "9420": {
+        "id": "9420",
+        "name": "Bronze limbs",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 6,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19570": {
+        "id": "19570",
+        "name": "Bronze javelin heads",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 6,
+                        "xp": 2.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1291": {
+        "id": "1291",
+        "name": "Bronze longsword",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 6,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1155": {
+        "id": "1155",
+        "name": "Bronze full helm",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 7,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "864": {
+        "id": "864",
+        "name": "Bronze knife",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 7,
+                        "xp": 2.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1173": {
+        "id": "1173",
+        "name": "Bronze sq shield",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 8,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1337": {
+        "id": "1337",
+        "name": "Bronze warhammer",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 9,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1375": {
+        "id": "1375",
+        "name": "Bronze battleaxe",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 10,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1103": {
+        "id": "1103",
+        "name": "Bronze chainbody",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 11,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1189": {
+        "id": "1189",
+        "name": "Bronze kiteshield",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 12,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "3095": {
+        "id": "3095",
+        "name": "Bronze claws",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 13,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1307": {
+        "id": "1307",
+        "name": "Bronze 2h sword",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 14,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1075": {
+        "id": "1075",
+        "name": "Bronze platelegs",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 16,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1087": {
+        "id": "1087",
+        "name": "Bronze plateskirt",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 16,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1117": {
+        "id": "1117",
+        "name": "Bronze platebody",
+        "methods": [
+            {
+                "name": "bronze-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 18,
+                        "xp": 62.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2349",
+                        "quantity": 5
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1203": {
+        "id": "1203",
+        "name": "Iron dagger",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 15,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1349": {
+        "id": "1349",
+        "name": "Iron axe",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 16,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1420": {
+        "id": "1420",
+        "name": "Iron mace",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 17,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "7225": {
+        "id": "7225",
+        "name": "Iron spit",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 17,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1137": {
+        "id": "1137",
+        "name": "Iron med helm",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 18,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "9377": {
+        "id": "9377",
+        "name": "Iron bolts (unf)",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 18,
+                        "xp": 2.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1279": {
+        "id": "1279",
+        "name": "Iron sword",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 19,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "820": {
+        "id": "820",
+        "name": "Iron dart tip",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 19,
+                        "xp": 2.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "4820": {
+        "id": "4820",
+        "name": "Iron nails",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 19,
+                        "xp": 1.6667
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "40": {
+        "id": "40",
+        "name": "Iron arrowtips",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 20,
+                        "xp": 1.6667
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 0.06667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1323": {
+        "id": "1323",
+        "name": "Iron scimitar",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 20,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1239": {
+        "id": "1239",
+        "name": "Iron spear",
+        "methods": [
+            {
+                "name": "iron-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 20,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1521",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11369": {
+        "id": "11369",
+        "name": "Iron hasta",
+        "methods": [
+            {
+                "name": "iron-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 20,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1521",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19572": {
+        "id": "19572",
+        "name": "Iron javelin heads",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 21,
+                        "xp": 5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1293": {
+        "id": "1293",
+        "name": "Iron longsword",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 21,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1153": {
+        "id": "1153",
+        "name": "Iron full helm",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 22,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "863": {
+        "id": "863",
+        "name": "Iron knife",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 22,
+                        "xp": 5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "9423": {
+        "id": "9423",
+        "name": "Iron limbs",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 23,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1175": {
+        "id": "1175",
+        "name": "Iron sq shield",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 23,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1335": {
+        "id": "1335",
+        "name": "Iron warhammer",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 24,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1363": {
+        "id": "1363",
+        "name": "Iron battleaxe",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 25,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "4540": {
+        "id": "4540",
+        "name": "Oil lantern frame",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 26,
+                        "xp": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1101": {
+        "id": "1101",
+        "name": "Iron chainbody",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 26,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1191": {
+        "id": "1191",
+        "name": "Iron kiteshield",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 27,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "3096": {
+        "id": "3096",
+        "name": "Iron claws",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 28,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1309": {
+        "id": "1309",
+        "name": "Iron 2h sword",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 29,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1067": {
+        "id": "1067",
+        "name": "Iron platelegs",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 31,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1081": {
+        "id": "1081",
+        "name": "Iron plateskirt",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 31,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1115": {
+        "id": "1115",
+        "name": "Iron platebody",
+        "methods": [
+            {
+                "name": "iron-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 33,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2351",
+                        "quantity": 5
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1207": {
+        "id": "1207",
+        "name": "Steel dagger",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 30,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1353": {
+        "id": "1353",
+        "name": "Steel axe",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 31,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1424": {
+        "id": "1424",
+        "name": "Steel mace",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 32,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1141": {
+        "id": "1141",
+        "name": "Steel med helm",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 33,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "9378": {
+        "id": "9378",
+        "name": "Steel bolts (unf)",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 33,
+                        "xp": 3.75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1281": {
+        "id": "1281",
+        "name": "Steel sword",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 34,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "821": {
+        "id": "821",
+        "name": "Steel dart tip",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 34,
+                        "xp": 3.75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1539": {
+        "id": "1539",
+        "name": "Steel nails",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 34,
+                        "xp": 2.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "41": {
+        "id": "41",
+        "name": "Steel arrowtips",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 35,
+                        "xp": 2.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2": {
+        "id": "2",
+        "name": "Cannonball",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 35,
+                        "xp": 6.375
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 0.25
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1325": {
+        "id": "1325",
+        "name": "Steel scimitar",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 35,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1241": {
+        "id": "1241",
+        "name": "Steel spear",
+        "methods": [
+            {
+                "name": "steel-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 35,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1519",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11371": {
+        "id": "11371",
+        "name": "Steel hasta",
+        "methods": [
+            {
+                "name": "steel-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 35,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1519",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "9425": {
+        "id": "9425",
+        "name": "Steel limbs",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 36,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19574": {
+        "id": "19574",
+        "name": "Steel javelin heads",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 36,
+                        "xp": 7.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1295": {
+        "id": "1295",
+        "name": "Steel longsword",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 36,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "2370": {
+        "id": "2370",
+        "name": "Steel studs",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 36,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1157": {
+        "id": "1157",
+        "name": "Steel full helm",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 37,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "865": {
+        "id": "865",
+        "name": "Steel knife",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 37,
+                        "xp": 7.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1177": {
+        "id": "1177",
+        "name": "Steel sq shield",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 38,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1339": {
+        "id": "1339",
+        "name": "Steel warhammer",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 39,
+                        "xp": 112.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1365": {
+        "id": "1365",
+        "name": "Steel battleaxe",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 40,
+                        "xp": 112.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1105": {
+        "id": "1105",
+        "name": "Steel chainbody",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 41,
+                        "xp": 112.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1193": {
+        "id": "1193",
+        "name": "Steel kiteshield",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 42,
+                        "xp": 112.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "3097": {
+        "id": "3097",
+        "name": "Steel claws",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 43,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1311": {
+        "id": "1311",
+        "name": "Steel 2h sword",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 44,
+                        "xp": 112.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1069": {
+        "id": "1069",
+        "name": "Steel platelegs",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 46,
+                        "xp": 112.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1083": {
+        "id": "1083",
+        "name": "Steel plateskirt",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 46,
+                        "xp": 112.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1119": {
+        "id": "1119",
+        "name": "Steel platebody",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 48,
+                        "xp": 187.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 5
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "4544": {
+        "id": "4544",
+        "name": "Bullseye lantern (unf)",
+        "methods": [
+            {
+                "name": "steel-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 49,
+                        "xp": 37.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2353",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1209": {
+        "id": "1209",
+        "name": "Mithril dagger",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 50,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1355": {
+        "id": "1355",
+        "name": "Mithril axe",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 51,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1428": {
+        "id": "1428",
+        "name": "Mithril mace",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 52,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1143": {
+        "id": "1143",
+        "name": "Mithril med helm",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 53,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "9379": {
+        "id": "9379",
+        "name": "Mithril bolts (unf)",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 53,
+                        "xp": 5.0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1285": {
+        "id": "1285",
+        "name": "Mithril sword",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 54,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "822": {
+        "id": "822",
+        "name": "Mithril dart tip",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 54,
+                        "xp": 5.0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "4822": {
+        "id": "4822",
+        "name": "Mithril nails",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 54,
+                        "xp": 3.3335
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "42": {
+        "id": "42",
+        "name": "Mithril arrowtips",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 55,
+                        "xp": 3.3335
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1329": {
+        "id": "1329",
+        "name": "Mithril scimitar",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 55,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1243": {
+        "id": "1243",
+        "name": "Mithril spear",
+        "methods": [
+            {
+                "name": "mithril-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 55,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11373": {
+        "id": "11373",
+        "name": "Mithril hasta",
+        "methods": [
+            {
+                "name": "mithril-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 55,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1517",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "9427": {
+        "id": "9427",
+        "name": "Mithril limbs",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 56,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1517",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19576": {
+        "id": "19576",
+        "name": "Mithril javelin heads",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 56,
+                        "xp": 10.0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1299": {
+        "id": "1299",
+        "name": "Mithril longsword",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 56,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1159": {
+        "id": "1159",
+        "name": "Mithril full helm",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 57,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "866": {
+        "id": "866",
+        "name": "Mithril knife",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 57,
+                        "xp": 10.0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1181": {
+        "id": "1181",
+        "name": "Mithril sq shield",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 58,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1343": {
+        "id": "1343",
+        "name": "Mithril warhammer",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 59,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "9416": {
+        "id": "9416",
+        "name": "Mith grapple tip",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 59,
+                        "xp": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1109": {
+        "id": "1109",
+        "name": "Mithril chainbody",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 61,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1197": {
+        "id": "1197",
+        "name": "Mithril kiteshield",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 62,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "3099": {
+        "id": "3099",
+        "name": "Mithril claws",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 64,
+                        "xp": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1315": {
+        "id": "1315",
+        "name": "Mithril 2h sword",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 64,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1071": {
+        "id": "1071",
+        "name": "Mithril platelegs",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 66,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1085": {
+        "id": "1085",
+        "name": "Mithril plateskirt",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 66,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1121": {
+        "id": "1121",
+        "name": "Mithril platebody",
+        "methods": [
+            {
+                "name": "mithril-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 68,
+                        "xp": 250
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2359",
+                        "quantity": 5
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1211": {
+        "id": "1211",
+        "name": "Adamant dagger",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 70,
+                        "xp": 62.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1357": {
+        "id": "1357",
+        "name": "Adamant axe",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 71,
+                        "xp": 62.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1430": {
+        "id": "1430",
+        "name": "Adamant mace",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 72,
+                        "xp": 62.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1145": {
+        "id": "1145",
+        "name": "Adamant med helm",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 73,
+                        "xp": 62.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "9380": {
+        "id": "9380",
+        "name": "Adamant bolts(unf)",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 73,
+                        "xp": 6.25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1287": {
+        "id": "1287",
+        "name": "Adamant sword",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 74,
+                        "xp": 62.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "823": {
+        "id": "823",
+        "name": "Adamant dart tip",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 74,
+                        "xp": 6.25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "4823": {
+        "id": "4823",
+        "name": "Adamantite nails",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 74,
+                        "xp": 4.1667
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "43": {
+        "id": "43",
+        "name": "Adamant arrowtips",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 75,
+                        "xp": 4.1667
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1331": {
+        "id": "1331",
+        "name": "Adamant scimitar",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 75,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1245": {
+        "id": "1245",
+        "name": "Adamant spear",
+        "methods": [
+            {
+                "name": "adamant-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 75,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1515",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11375": {
+        "id": "11375",
+        "name": "Adamant hasta",
+        "methods": [
+            {
+                "name": "adamant-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 75,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1515",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "9429": {
+        "id": "9429",
+        "name": "Adamantite limbs",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 76,
+                        "xp": 62.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19578": {
+        "id": "19578",
+        "name": "Adamant javelin heads",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 76,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1301": {
+        "id": "1301",
+        "name": "Adamant longsword",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 76,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1161": {
+        "id": "1161",
+        "name": "Adamant full helm",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 77,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "867": {
+        "id": "867",
+        "name": "Adamant knife",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 77,
+                        "xp": 12.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1183": {
+        "id": "1183",
+        "name": "Adamant sq shield",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 78,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1345": {
+        "id": "1345",
+        "name": "Adamant warhammer",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 79,
+                        "xp": 187.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1371": {
+        "id": "1371",
+        "name": "Adamant battleaxe",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 80,
+                        "xp": 187.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1111": {
+        "id": "1111",
+        "name": "Adamant chainbody",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 81,
+                        "xp": 187.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1199": {
+        "id": "1199",
+        "name": "Adamant kiteshield",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 82,
+                        "xp": 187.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "3100": {
+        "id": "3100",
+        "name": "Adamant claws",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 83,
+                        "xp": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1317": {
+        "id": "1317",
+        "name": "Adamant 2h sword",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 84,
+                        "xp": 187.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1073": {
+        "id": "1073",
+        "name": "Adamant platelegs",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 86,
+                        "xp": 187.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1091": {
+        "id": "1091",
+        "name": "Adamant plateskirt",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 86,
+                        "xp": 187.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1123": {
+        "id": "1123",
+        "name": "Adamant platebody",
+        "methods": [
+            {
+                "name": "adamant-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 88,
+                        "xp": 312.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2361",
+                        "quantity": 5
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1213": {
+        "id": "1213",
+        "name": "Rune dagger",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 85,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1359": {
+        "id": "1359",
+        "name": "Rune axe",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 86,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1432": {
+        "id": "1432",
+        "name": "Rune mace",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 87,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1147": {
+        "id": "1147",
+        "name": "Rune med helm",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 88,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "9381": {
+        "id": "9381",
+        "name": "Runite bolts (unf)",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 88,
+                        "xp": 7.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1289": {
+        "id": "1289",
+        "name": "Rune sword",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 89,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 1
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "824": {
+        "id": "824",
+        "name": "Rune dart tip",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 89,
+                        "xp": 7.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 0.1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "4824": {
+        "id": "4824",
+        "name": "Rune nails",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 89,
+                        "xp": 5.0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "44": {
+        "id": "44",
+        "name": "Rune arrowtips",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 90,
+                        "xp": 5.0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 0.0667
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1333": {
+        "id": "1333",
+        "name": "Rune scimitar",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 90,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1247": {
+        "id": "1247",
+        "name": "Rune spear",
+        "methods": [
+            {
+                "name": "rune-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 90,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1513",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11377": {
+        "id": "11377",
+        "name": "Rune hasta",
+        "methods": [
+            {
+                "name": "rune-barbarian-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 90,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "1513",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "9431": {
+        "id": "9431",
+        "name": "Runite limbs",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 91,
+                        "xp": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19580": {
+        "id": "19580",
+        "name": "Rune javelin heads",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 91,
+                        "xp": 15.0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1303": {
+        "id": "1303",
+        "name": "Rune longsword",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 91,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1163": {
+        "id": "1163",
+        "name": "Rune full helm",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 92,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "868": {
+        "id": "868",
+        "name": "Rune knife",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 92,
+                        "xp": 15.0
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 0.2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1185": {
+        "id": "1185",
+        "name": "Rune sq shield",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 93,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 2
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1347": {
+        "id": "1347",
+        "name": "Rune warhammer",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 94,
+                        "xp": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1373": {
+        "id": "1373",
+        "name": "Rune battleaxe",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 95,
+                        "xp": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1113": {
+        "id": "1113",
+        "name": "Rune chainbody",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 96,
+                        "xp": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1201": {
+        "id": "1201",
+        "name": "Rune kiteshield",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 97,
+                        "xp": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "3101": {
+        "id": "3101",
+        "name": "Rune claws",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 98,
+                        "xp": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 2
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1319": {
+        "id": "1319",
+        "name": "Rune 2h sword",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 99,
+                        "xp": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1079": {
+        "id": "1079",
+        "name": "Rune platelegs",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 99,
+                        "xp": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1093": {
+        "id": "1093",
+        "name": "Rune plateskirt",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 99,
+                        "xp": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 3
+                    }
+                ],
+                "members": false
+            }
+        ]
+    },
+    "1127": {
+        "id": "1127",
+        "name": "Rune platebody",
+        "methods": [
+            {
+                "name": "rune-anvil-smithing",
+                "skills": [
+                    {
+                        "name": "smithing",
+                        "lvl": 99,
+                        "xp": 375
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2363",
+                        "quantity": 5
+                    }
+                ],
+                "members": false
+            }
+        ]
+    }
+}

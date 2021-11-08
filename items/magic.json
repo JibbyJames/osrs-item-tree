@@ -1,0 +1,1130 @@
+{
+    "2550": {
+        "id": "2550",
+        "name": "Ring of recoil",
+        "methods": [
+            {
+                "name": "lvl-1-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 7,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1637",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "3853": {
+        "id": "3853",
+        "name": "Games necklace(8)",
+        "methods": [
+            {
+                "name": "lvl-1-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 7,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1656",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11074": {
+        "id": "11074",
+        "name": "Bracelet of clay",
+        "methods": [
+            {
+                "name": "lvl-1-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 7,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "11072",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1727": {
+        "id": "1727",
+        "name": "Amulet of magic",
+        "methods": [
+            {
+                "name": "lvl-1-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 7,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1694",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21126": {
+        "id": "21126",
+        "name": "Ring of pursuit",
+        "methods": [
+            {
+                "name": "lvl-1-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 7,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21081",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21177": {
+        "id": "21177",
+        "name": "Expeditious bracelet",
+        "methods": [
+            {
+                "name": "lvl-1-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 7,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21117",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21143": {
+        "id": "21143",
+        "name": "Dodgy necklace",
+        "methods": [
+            {
+                "name": "lvl-1-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 7,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21090",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21160": {
+        "id": "21160",
+        "name": "Amulet of bounty",
+        "methods": [
+            {
+                "name": "lvl-1-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 7,
+                        "xp": 17.5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21108",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2552": {
+        "id": "2552",
+        "name": "Ring of dueling(8)",
+        "methods": [
+            {
+                "name": "lvl-2-enchant-air-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 27,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1639",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "5521": {
+        "id": "5521",
+        "name": "Binding necklace",
+        "methods": [
+            {
+                "name": "lvl-2-enchant-air-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 27,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1658",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11079": {
+        "id": "11079",
+        "name": "Castle wars bracelet(3)",
+        "methods": [
+            {
+                "name": "lvl-2-enchant-air-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 27,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "11076",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1729": {
+        "id": "1729",
+        "name": "Amulet of defence",
+        "methods": [
+            {
+                "name": "lvl-2-enchant-air-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 27,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1696",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21084": {
+        "id": "21084",
+        "name": "Ring of returning(5)",
+        "methods": [
+            {
+                "name": "lvl-2-enchant-air-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 27,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1696",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21146": {
+        "id": "21146",
+        "name": "Necklace of passage(5)",
+        "methods": [
+            {
+                "name": "lvl-2-enchant-air-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 27,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21093",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21180": {
+        "id": "21180",
+        "name": "Flamtaer bracelet",
+        "methods": [
+            {
+                "name": "lvl-2-enchant-air-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 27,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21120",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21163": {
+        "id": "21163",
+        "name": "Amulet of chemistry",
+        "methods": [
+            {
+                "name": "lvl-2-enchant-air-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 27,
+                        "xp": 37
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21111",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2568": {
+        "id": "2568",
+        "name": "Ring of forging",
+        "methods": [
+            {
+                "name": "lvl-3-enchant-fire-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 49,
+                        "xp": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1641",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11088": {
+        "id": "11088",
+        "name": "Inoculation bracelet",
+        "methods": [
+            {
+                "name": "lvl-3-enchant-fire-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 49,
+                        "xp": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "11085",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1725": {
+        "id": "1725",
+        "name": "Amulet of strength",
+        "methods": [
+            {
+                "name": "lvl-3-enchant-fire-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 49,
+                        "xp": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1698",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11194": {
+        "id": "11194",
+        "name": "Digsite pendant",
+        "methods": [
+            {
+                "name": "lvl-3-enchant-fire-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 49,
+                        "xp": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1660",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21140": {
+        "id": "21140",
+        "name": "Efaritay's aid",
+        "methods": [
+            {
+                "name": "lvl-3-enchant-fire-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 49,
+                        "xp": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21087",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21183": {
+        "id": "21183",
+        "name": "Bracelet of slaughter",
+        "methods": [
+            {
+                "name": "lvl-3-enchant-fire-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 49,
+                        "xp": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21123",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21157": {
+        "id": "21157",
+        "name": "Necklace of faith",
+        "methods": [
+            {
+                "name": "lvl-3-enchant-fire-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 49,
+                        "xp": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21096",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "21166": {
+        "id": "21166",
+        "name": "Burning amulet",
+        "methods": [
+            {
+                "name": "lvl-3-enchant-fire-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 49,
+                        "xp": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "21114",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "2570": {
+        "id": "2570",
+        "name": "Ring of life",
+        "methods": [
+            {
+                "name": "lvl-4-enchant-earth-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 57,
+                        "xp": 67
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1643",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11090": {
+        "id": "11090",
+        "name": "Phoenix necklace",
+        "methods": [
+            {
+                "name": "lvl-4-enchant-earth-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 57,
+                        "xp": 67
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1662",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11095": {
+        "id": "11095",
+        "name": "Abyssal bracelet",
+        "methods": [
+            {
+                "name": "lvl-4-enchant-earth-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 57,
+                        "xp": 67
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "11092",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1731": {
+        "id": "1731",
+        "name": "Amulet of power",
+        "methods": [
+            {
+                "name": "lvl-4-enchant-earth-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 57,
+                        "xp": 67
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1700",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11980": {
+        "id": "11980",
+        "name": "Ring of wealth",
+        "methods": [
+            {
+                "name": "lvl-5-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 68,
+                        "xp": 78
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1645",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "557",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11113": {
+        "id": "11113",
+        "name": "Skills necklace",
+        "methods": [
+            {
+                "name": "lvl-5-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 68,
+                        "xp": 78
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1664",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "557",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11126": {
+        "id": "11126",
+        "name": "Combat bracelet",
+        "methods": [
+            {
+                "name": "lvl-5-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 68,
+                        "xp": 78
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "11115",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "557",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "1704": {
+        "id": "1704",
+        "name": "Amulet of glory",
+        "methods": [
+            {
+                "name": "lvl-5-enchant-water-staff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 68,
+                        "xp": 78
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1702",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "557",
+                        "quantity": 15
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "6583": {
+        "id": "6583",
+        "name": "Ring of stone",
+        "methods": [
+            {
+                "name": "lvl-6-enchant-lava-battlestaff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 87,
+                        "xp": 97
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6575",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11128": {
+        "id": "11128",
+        "name": "Berserker necklace",
+        "methods": [
+            {
+                "name": "lvl-6-enchant-lava-battlestaff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 87,
+                        "xp": 97
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6577",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "11133": {
+        "id": "11133",
+        "name": "Regen bracelet",
+        "methods": [
+            {
+                "name": "lvl-6-enchant-lava-battlestaff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 87,
+                        "xp": 97
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "11130",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "6585": {
+        "id": "6585",
+        "name": "Amulet of fury",
+        "methods": [
+            {
+                "name": "lvl-6-enchant-lava-battlestaff",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 87,
+                        "xp": 97
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6581",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19550": {
+        "id": "19550",
+        "name": "Ring of suffering",
+        "methods": [
+            {
+                "name": "lvl-7-enchant",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 93,
+                        "xp": 110
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19538",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "565",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "566",
+                        "quantity": 20
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19547": {
+        "id": "19547",
+        "name": "Necklace of anguish",
+        "methods": [
+            {
+                "name": "lvl-7-enchant",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 93,
+                        "xp": 110
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19535",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "565",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "566",
+                        "quantity": 20
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19544": {
+        "id": "19544",
+        "name": "Tormented bracelet",
+        "methods": [
+            {
+                "name": "lvl-7-enchant",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 93,
+                        "xp": 110
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19532",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "565",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "566",
+                        "quantity": 20
+                    }
+                ],
+                "members": true
+            }
+        ]
+    },
+    "19553": {
+        "id": "19553",
+        "name": "Amulet of torture",
+        "methods": [
+            {
+                "name": "lvl-7-enchant",
+                "skills": [
+                    {
+                        "name": "magic",
+                        "lvl": 93,
+                        "xp": 110
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "19541",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "564",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "565",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "566",
+                        "quantity": 20
+                    }
+                ],
+                "members": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,5631 @@
+Tree ID: 3275940445742954387 --------
+x1 Ball of wool spinning
+|--x1 Wool purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 1, 'xp': 2.5}}
+
+Tree ID: 4361015992683096622 --------
+x1 Bow string spinning
+|--x1 Flax purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 15}}
+
+Tree ID: 4245206774566999401 --------
+x1 Crossbow string spinning sinew
+|--x1 Sinew purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 15}}
+
+Tree ID: 8509662016495382744 --------
+x1 Crossbow string spinning roots
+|--x1 Oak roots purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 15}}
+
+Tree ID: 80492328753015073 --------
+x1 Crossbow string spinning roots
+|--x1 Willow roots purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 15}}
+
+Tree ID: 7947305639846357985 --------
+x1 Crossbow string spinning roots
+|--x1 Maple roots purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 15}}
+
+Tree ID: 7271209388978005585 --------
+x1 Crossbow string spinning roots
+|--x1 Yew roots purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 15}}
+
+Tree ID: 2716405893396162028 --------
+x1 Crossbow string spinning roots
+|--x1 Magic roots purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 15}}
+
+Tree ID: 5872528188078778489 --------
+x1 Magic string spinning
+|--x1 Magic roots purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 19, 'xp': 30}}
+
+Tree ID: 4940814123531227944 --------
+x1 Rope spinning
+|--x1 Hair purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 30, 'xp': 25}}
+
+Tree ID: 4953752807936000079 --------
+x1 Strip of cloth weaving
+|--x4 Ball of wool purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 12}}
+
+Tree ID: 8361541471188614118 --------
+x1 Empty sack weaving
+|--x4 Jute fibre purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 21, 'xp': 38}}
+
+Tree ID: 170757191378042616 --------
+x1 Drift net weaving
+|--x2 Jute fibre purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 26, 'xp': 55}}
+
+Tree ID: 1293220320313751138 --------
+x1 Basket weaving
+|--x6 Willow branch purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 36, 'xp': 56}}
+
+Tree ID: 5264198314977583421 --------
+x1 Soft clay water-on-clay
+|--x1 Clay purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 1, 'xp': 0}}
+
+Tree ID: 7304666771980178386 --------
+x1 Pot pottery-wheel
+|--x1 Soft clay purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 1, 'xp': 12.6}}
+
+Tree ID: 1187601234027133555 --------
+x1 Pie dish pottery-wheel
+|--x1 Soft clay purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 7, 'xp': 25}}
+
+Tree ID: 8452200616379973735 --------
+x1 Bowl pottery-wheel
+|--x1 Soft clay purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 8, 'xp': 33}}
+
+Tree ID: 1189904616978851591 --------
+x1 Empty plant pot pottery-wheel
+|--x1 Soft clay purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 19, 'xp': 37.5}}
+
+Tree ID: 6315642768168860957 --------
+x1 Pot lid pottery-wheel
+|--x1 Soft clay purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 25, 'xp': 40}}
+
+Tree ID: 3761739137076244619 --------
+x1 Leather tanner-npc
+|--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 1, 'xp': 0}}
+
+Tree ID: 4754254599395888453 --------
+x1 Hard leather tanner-npc
+|--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 1, 'xp': 0}}
+
+Tree ID: 4219194538223427894 --------
+x1 Leather gloves needle-and-thread
+|--x1 Leather purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 1, 'xp': 13.8}}
+
+Tree ID: 1025644962883598066 --------
+x1 Leather boots needle-and-thread
+|--x1 Leather purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 7, 'xp': 16.25}}
+
+Tree ID: 8090446734244816185 --------
+x1 Leather cowl needle-and-thread
+|--x1 Leather purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 9, 'xp': 18.5}}
+
+Tree ID: 5686443175408156561 --------
+x1 Leather vambraces needle-and-thread
+|--x1 Leather purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 11, 'xp': 22}}
+
+Tree ID: 5831725751316639513 --------
+x1 Leather body needle-and-thread
+|--x1 Leather purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 14, 'xp': 25}}
+
+Tree ID: 918359322504600353 --------
+x1 Leather chaps needle-and-thread
+|--x1 Leather purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 18, 'xp': 27}}
+
+Tree ID: 6252746895297945884 --------
+x1 Hardleather body needle-and-thread
+|--x1 Hard leather purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 28, 'xp': 35}}
+
+Tree ID: 8205097788569078750 --------
+x1 Spiky vambraces attach-item
+|--x1 Leather vambraces purchased_from_ge
+|--x1 Kebbit claws purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 32, 'xp': 6}}
+
+Tree ID: 5258828391682185293 --------
+x1 Coif needle-and-thread
+|--x1 Leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 38, 'xp': 37}}
+
+Tree ID: 8487272424765917650 --------
+x1 Hard leather shield needle-and-thread
+|--x2 Oak shield purchased_from_ge
+|--x2 Hard leather purchased_from_ge
+|--x15 Bronze nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 70}}
+
+Tree ID: 2122454208796665922 --------
+x1 Studded body attach-item
+|--x1 Leather purchased_from_ge
+|--x1 Steel studs purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 40}}
+
+Tree ID: 1612371901679255923 --------
+x1 Studded chaps attach-item
+|--x1 Leather purchased_from_ge
+|--x1 Steel studs purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 44, 'xp': 42}}
+
+Tree ID: 3778521174519466000 --------
+x1 Green dragon leather tanner-npc
+|--x1 Green dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 0}}
+
+Tree ID: 8255909837393176123 --------
+x1 Green dragon leather tan-leather-spell-fire-staff
+|--x1 Green dragonhide purchased_from_ge
+|--x0.2 Nature rune purchased_from_ge
+|--x0.4 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 81}}
+
+Tree ID: 401365526576528399 --------
+x1 Green d'hide vamb needle-and-thread
+|--x1 Green dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 57, 'xp': 62}}
+
+Tree ID: 7294436700471695006 --------
+x1 Green d'hide chaps needle-and-thread
+|--x2 Green dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 60, 'xp': 124}}
+
+Tree ID: 3216147034204381684 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 62, 'xp': 124}}
+
+Tree ID: 877948359721327850 --------
+x1 Green d'hide body needle-and-thread
+|--x3 Green dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 63, 'xp': 186}}
+
+Tree ID: 6112558045456538431 --------
+x1 Blue dragon leather tanner-npc
+|--x1 Blue dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 0}}
+
+Tree ID: 7536734944978389740 --------
+x1 Blue dragon leather tan-leather-spell-fire-staff
+|--x1 Blue dragonhide purchased_from_ge
+|--x0.2 Nature rune purchased_from_ge
+|--x0.4 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 81}}
+
+Tree ID: 2028504450473360386 --------
+x1 Blue d'hide vamb needle-and-thread
+|--x1 Blue dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 66, 'xp': 70}}
+
+Tree ID: 8304108762285437976 --------
+x1 Blue d'hide chaps needle-and-thread
+|--x2 Blue dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 68, 'xp': 140}}
+
+Tree ID: 3829300228311286711 --------
+x1 Blue d'hide shield needle-and-thread
+|--x2 Blue dragon leather purchased_from_ge
+|--x1 Yew shield purchased_from_ge
+|--x15 Mithril nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 69, 'xp': 140}}
+
+Tree ID: 6729153045902183117 --------
+x1 Blue d'hide body needle-and-thread
+|--x3 Blue dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 71, 'xp': 210}}
+
+Tree ID: 6014880618148207353 --------
+x1 Red dragon leather tanner-npc
+|--x1 Red dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 0}}
+
+Tree ID: 1037258095819111279 --------
+x1 Red dragon leather tan-leather-spell-fire-staff
+|--x1 Red dragonhide purchased_from_ge
+|--x0.2 Nature rune purchased_from_ge
+|--x0.4 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 81}}
+
+Tree ID: 7664147586268977120 --------
+x1 Red d'hide vamb needle-and-thread
+|--x1 Red dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 73, 'xp': 78}}
+
+Tree ID: 3713759637156422373 --------
+x1 Red d'hide chaps needle-and-thread
+|--x2 Red dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 75, 'xp': 156}}
+
+Tree ID: 2618476405895654033 --------
+x1 Red d'hide shield needle-and-thread
+|--x2 Red dragon leather purchased_from_ge
+|--x1 Magic shield purchased_from_ge
+|--x15 Adamantite nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 76, 'xp': 156}}
+
+Tree ID: 4105751137161874337 --------
+x1 Red d'hide body needle-and-thread
+|--x3 Red dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 77, 'xp': 234}}
+
+Tree ID: 2111551712806329710 --------
+x1 Black dragon leather tanner-npc
+|--x1 Black dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 0}}
+
+Tree ID: 661290470264167094 --------
+x1 Black dragon leather tan-leather-spell-fire-staff
+|--x1 Black dragonhide purchased_from_ge
+|--x0.2 Nature rune purchased_from_ge
+|--x0.4 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 81}}
+
+Tree ID: 905172179543525128 --------
+x1 Black d'hide vamb needle-and-thread
+|--x1 Black dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 79, 'xp': 86}}
+
+Tree ID: 7244070346090951811 --------
+x1 Black d'hide chaps needle-and-thread
+|--x2 Black dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 82, 'xp': 172}}
+
+Tree ID: 7317246101324123436 --------
+x1 Black d'hide shield needle-and-thread
+|--x2 Black dragon leather purchased_from_ge
+|--x1 Redwood shield purchased_from_ge
+|--x15 Rune nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 83, 'xp': 172}}
+
+Tree ID: 607399516005885187 --------
+x1 Black d'hide body needle-and-thread
+|--x3 Black dragon leather purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 84, 'xp': 258}}
+
+Tree ID: 797337889868720388 --------
+x1 Opal chisel-gem-cut
+|--x1 Uncut opal purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 15}}
+
+Tree ID: 2342779803543018804 --------
+x1 Jade chisel-gem-cut
+|--x1 Uncut jade purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 13, 'xp': 20}}
+
+Tree ID: 1759476945779627297 --------
+x1 Red topaz chisel-gem-cut
+|--x1 Uncut red topaz purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 25}}
+
+Tree ID: 5303977896449740848 --------
+x1 Sapphire chisel-gem-cut
+|--x1 Uncut sapphire purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 20, 'xp': 50}}
+
+Tree ID: 5757616339158436890 --------
+x1 Emerald chisel-gem-cut
+|--x1 Uncut emerald purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 27, 'xp': 67.5}}
+
+Tree ID: 6221912062875870507 --------
+x1 Ruby chisel-gem-cut
+|--x1 Uncut ruby purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 34, 'xp': 85}}
+
+Tree ID: 1560683864710878238 --------
+x1 Diamond chisel-gem-cut
+|--x1 Uncut diamond purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 43, 'xp': 107.5}}
+
+Tree ID: 1422337225340373119 --------
+x1 Dragonstone chisel-gem-cut
+|--x1 Uncut dragonstone purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 55, 'xp': 137.5}}
+
+Tree ID: 7310209268386593948 --------
+x1 Onyx chisel-gem-cut
+|--x1 Uncut onyx purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 67, 'xp': 167.5}}
+
+Tree ID: 694573163026799297 --------
+x1 Zenyte chisel-gem-cut
+|--x1 Uncut zenyte purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 89, 'xp': 200}}
+
+Tree ID: 3915822480549813805 --------
+x1 Opal ring silver-bar-furnace
+|--x1 Opal purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 10}}
+
+Tree ID: 4444842359185644446 --------
+x1 Opal necklace silver-bar-furnace
+|--x1 Opal purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 35}}
+
+Tree ID: 5373476821283270665 --------
+x1 Opal bracelet silver-bar-furnace
+|--x1 Opal purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 22, 'xp': 45}}
+
+Tree ID: 5696924465665140675 --------
+x1 Opal amulet silver-bar-furnace
+|--x1 Opal purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 27, 'xp': 55}}
+
+Tree ID: 8732477471394586378 --------
+x1 Ring of returning(5) lvl-2-enchant-air-staff
+|--x1 Emerald amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}}
+
+Tree ID: 264406881195487039 --------
+x1 Jade necklace silver-bar-furnace
+|--x1 Jade purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 25, 'xp': 54}}
+
+Tree ID: 1285024793793644973 --------
+x1 Jade bracelet silver-bar-furnace
+|--x1 Jade purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 29, 'xp': 60}}
+
+Tree ID: 8690328610227402638 --------
+x1 Jade amulet silver-bar-furnace
+|--x1 Jade purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 34, 'xp': 70}}
+
+Tree ID: 1009289557018613738 --------
+x1 Topaz ring silver-bar-furnace
+|--x1 Red topaz purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 35}}
+
+Tree ID: 1469495400536831101 --------
+x1 Topaz necklace silver-bar-furnace
+|--x1 Red topaz purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 32, 'xp': 70}}
+
+Tree ID: 5634447540945041967 --------
+x1 Topaz bracelet silver-bar-furnace
+|--x1 Red topaz purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 38, 'xp': 75}}
+
+Tree ID: 3731413345939419343 --------
+x1 Topaz amulet silver-bar-furnace
+|--x1 Red topaz purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 45, 'xp': 80}}
+
+Tree ID: 4346857909452247475 --------
+x1 Gold ring gold-bar-furnace
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 5, 'xp': 15}}
+
+Tree ID: 7460507359145768458 --------
+x1 Gold necklace gold-bar-furnace
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 6, 'xp': 20}}
+
+Tree ID: 4181352822589181998 --------
+x1 Gold bracelet gold-bar-furnace
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 7, 'xp': 25}}
+
+Tree ID: 6617376157532368286 --------
+x1 Gold amulet gold-bar-furnace
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 8, 'xp': 30}}
+
+Tree ID: 5112839256987771949 --------
+x1 Sapphire ring gold-bar-furnace
+|--x1 Sapphire purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 20, 'xp': 40}}
+
+Tree ID: 1653182441142131676 --------
+x1 Sapphire necklace gold-bar-furnace
+|--x1 Sapphire purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 22, 'xp': 55}}
+
+Tree ID: 5858504387732119321 --------
+x1 Sapphire bracelet gold-bar-furnace
+|--x1 Sapphire purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 23, 'xp': 60}}
+
+Tree ID: 8639767608886802831 --------
+x1 Sapphire amulet gold-bar-furnace
+|--x1 Sapphire purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 24, 'xp': 65}}
+
+Tree ID: 6325775412739985820 --------
+x1 Emerald ring gold-bar-furnace
+|--x1 Emerald purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 27, 'xp': 55}}
+
+Tree ID: 4366714924655950029 --------
+x1 Emerald necklace gold-bar-furnace
+|--x1 Emerald purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 29, 'xp': 60}}
+
+Tree ID: 6218806551642962902 --------
+x1 Emerald bracelet gold-bar-furnace
+|--x1 Emerald purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 30, 'xp': 65}}
+
+Tree ID: 2655104763311226098 --------
+x1 Emerald amulet gold-bar-furnace
+|--x1 Emerald purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 31, 'xp': 70}}
+
+Tree ID: 231649640769621480 --------
+x1 Ruby ring gold-bar-furnace
+|--x1 Ruby purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 34, 'xp': 70}}
+
+Tree ID: 5206024866278377620 --------
+x1 Ruby necklace gold-bar-furnace
+|--x1 Ruby purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 40, 'xp': 75}}
+
+Tree ID: 2338294569118652832 --------
+x1 Ruby bracelet gold-bar-furnace
+|--x1 Ruby purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 42, 'xp': 80}}
+
+Tree ID: 7377338963234655515 --------
+x1 Ruby amulet gold-bar-furnace
+|--x1 Ruby purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 50, 'xp': 85}}
+
+Tree ID: 602614024357652134 --------
+x1 Diamond ring gold-bar-furnace
+|--x1 Diamond purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 43, 'xp': 85}}
+
+Tree ID: 5215936065368400652 --------
+x1 Diamond necklace gold-bar-furnace
+|--x1 Diamond purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 56, 'xp': 90}}
+
+Tree ID: 1649851681095917603 --------
+x1 Diamond bracelet gold-bar-furnace
+|--x1 Diamond purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 58, 'xp': 95}}
+
+Tree ID: 3771079121852317694 --------
+x1 Diamond amulet gold-bar-furnace
+|--x1 Diamond purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 70, 'xp': 100}}
+
+Tree ID: 5656853992874067316 --------
+x1 Dragonstone ring gold-bar-furnace
+|--x1 Dragonstone purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 55, 'xp': 100}}
+
+Tree ID: 3823637783271713887 --------
+x1 Dragon necklace gold-bar-furnace
+|--x1 Dragonstone purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 72, 'xp': 105}}
+
+Tree ID: 2229981052250627297 --------
+x1 Dragonstone bracelet gold-bar-furnace
+|--x1 Dragonstone purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 74, 'xp': 110}}
+
+Tree ID: 2534669847774611768 --------
+x1 Dragonstone amulet gold-bar-furnace
+|--x1 Dragonstone purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 80, 'xp': 150}}
+
+Tree ID: 7276452733769726401 --------
+x1 Slayer ring gold-bar-furnace
+|--x1 Enchanted gem purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 75, 'xp': 15}}
+
+Tree ID: 203753247162327382 --------
+x1 Slayer ring (eternal) gold-bar-furnace
+|--x1 Eternal gem purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 75, 'xp': 15}}
+
+Tree ID: 7186997371447687923 --------
+x1 Onyx ring gold-bar-furnace
+|--x1 Onyx purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 67, 'xp': 115}}
+
+Tree ID: 4636297154427580022 --------
+x1 Onyx necklace gold-bar-furnace
+|--x1 Onyx purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 82, 'xp': 120}}
+
+Tree ID: 4197602728567189599 --------
+x1 Onyx bracelet gold-bar-furnace
+|--x1 Onyx purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 84, 'xp': 125}}
+
+Tree ID: 4630308822098657961 --------
+x1 Onyx amulet gold-bar-furnace
+|--x1 Onyx purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 90, 'xp': 165}}
+
+Tree ID: 4369209524028428213 --------
+x1 Zenyte ring gold-bar-furnace
+|--x1 Zenyte purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 89, 'xp': 150}}
+
+Tree ID: 3053238560879135810 --------
+x1 Zenyte necklace gold-bar-furnace
+|--x1 Zenyte purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 92, 'xp': 165}}
+
+Tree ID: 8895136805972173271 --------
+x1 Zenyte bracelet gold-bar-furnace
+|--x1 Zenyte purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 95, 'xp': 180}}
+
+Tree ID: 3704403156763099615 --------
+x1 Zenyte amulet gold-bar-furnace
+|--x1 Zenyte purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 98, 'xp': 200}}
+
+Tree ID: 3132646393151597701 --------
+x1 Silver bolts (unf) silver-bar-furnace
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 21, 'xp': 50}}
+
+Tree ID: 2420326070399724589 --------
+x1 Water battlestaff attach-item
+|--x1 Battlestaff purchased_from_ge
+|--x1 Water orb purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 54, 'xp': 100}}
+
+Tree ID: 15209982441638255 --------
+x1 Earth battlestaff attach-item
+|--x1 Battlestaff purchased_from_ge
+|--x1 Earth orb purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 58, 'xp': 112.5}}
+
+Tree ID: 5955153642559993043 --------
+x1 Fire battlestaff attach-item
+|--x1 Battlestaff purchased_from_ge
+|--x1 Fire orb purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 62, 'xp': 125}}
+
+Tree ID: 4067776664490587097 --------
+x1 Air battlestaff attach-item
+|--x1 Battlestaff purchased_from_ge
+|--x1 Air orb purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 66, 'xp': 137.5}}
+
+Tree ID: 1625925146978259597 --------
+x1 Unstrung symbol silver-bar-furnace
+|--x1 Silver bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 16, 'xp': 50}}
+
+Tree ID: 3889293708219994282 --------
+x1 Unstrung emblem silver-bar-furnace
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 17, 'xp': 50}}
+
+Tree ID: 6298156237814648725 --------
+x1 Tiara silver-bar-furnace
+|--x1 Silver bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 23, 'xp': 52.5}}
+
+Tree ID: 7919445410459266103 --------
+x1 Ring of recoil lvl-1-enchant-water-staff
+|--x1 Sapphire ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}}
+
+Tree ID: 4751123438359447136 --------
+x1 Games necklace(8) lvl-1-enchant-water-staff
+|--x1 Sapphire necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}}
+
+Tree ID: 1078859057824067194 --------
+x1 Bracelet of clay lvl-1-enchant-water-staff
+|--x1 Sapphire bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}}
+
+Tree ID: 6469519601599310700 --------
+x1 Amulet of magic lvl-1-enchant-water-staff
+|--x1 Sapphire amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}}
+
+Tree ID: 336586327781849190 --------
+x1 Ring of pursuit lvl-1-enchant-water-staff
+|--x1 Opal ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}}
+
+Tree ID: 2094086855592259266 --------
+x1 Expeditious bracelet lvl-1-enchant-water-staff
+|--x1 Opal bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}}
+
+Tree ID: 5229095580677696187 --------
+x1 Dodgy necklace lvl-1-enchant-water-staff
+|--x1 Opal necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}}
+
+Tree ID: 4781402303077396777 --------
+x1 Amulet of bounty lvl-1-enchant-water-staff
+|--x1 Opal amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}}
+
+Tree ID: 8476852512783838780 --------
+x1 Ring of dueling(8) lvl-2-enchant-air-staff
+|--x1 Emerald ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}}
+
+Tree ID: 4457200311744190368 --------
+x1 Binding necklace lvl-2-enchant-air-staff
+|--x1 Emerald necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}}
+
+Tree ID: 2372508030831257781 --------
+x1 Castle wars bracelet(3) lvl-2-enchant-air-staff
+|--x1 Emerald bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}}
+
+Tree ID: 2616937199798762396 --------
+x1 Amulet of defence lvl-2-enchant-air-staff
+|--x1 Emerald amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}}
+
+Tree ID: 1184106096470000117 --------
+x1 Necklace of passage(5) lvl-2-enchant-air-staff
+|--x1 Jade necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}}
+
+Tree ID: 2006093426702293621 --------
+x1 Flamtaer bracelet lvl-2-enchant-air-staff
+|--x1 Jade bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}}
+
+Tree ID: 8708190588856620841 --------
+x1 Amulet of chemistry lvl-2-enchant-air-staff
+|--x1 Jade amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}}
+
+Tree ID: 5045679379252691384 --------
+x1 Ring of forging lvl-3-enchant-fire-staff
+|--x1 Ruby ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}}
+
+Tree ID: 2816581409596903789 --------
+x1 Inoculation bracelet lvl-3-enchant-fire-staff
+|--x1 Ruby bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}}
+
+Tree ID: 1158805800958781936 --------
+x1 Amulet of strength lvl-3-enchant-fire-staff
+|--x1 Ruby amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}}
+
+Tree ID: 595008427590235071 --------
+x1 Digsite pendant lvl-3-enchant-fire-staff
+|--x1 Ruby necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}}
+
+Tree ID: 7410369006293904959 --------
+x1 Efaritay's aid lvl-3-enchant-fire-staff
+|--x1 Topaz ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}}
+
+Tree ID: 7413945334637344637 --------
+x1 Bracelet of slaughter lvl-3-enchant-fire-staff
+|--x1 Topaz bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}}
+
+Tree ID: 7480716368841694024 --------
+x1 Necklace of faith lvl-3-enchant-fire-staff
+|--x1 Topaz necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}}
+
+Tree ID: 4090303968051993190 --------
+x1 Burning amulet lvl-3-enchant-fire-staff
+|--x1 Topaz amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}}
+
+Tree ID: 6630810308349041560 --------
+x1 Ring of life lvl-4-enchant-earth-staff
+|--x1 Diamond ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}}
+
+Tree ID: 345086325557714669 --------
+x1 Phoenix necklace lvl-4-enchant-earth-staff
+|--x1 Diamond necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}}
+
+Tree ID: 6544123556609753983 --------
+x1 Abyssal bracelet lvl-4-enchant-earth-staff
+|--x1 Diamond bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}}
+
+Tree ID: 678059605017111202 --------
+x1 Amulet of power lvl-4-enchant-earth-staff
+|--x1 Diamond amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}}
+
+Tree ID: 367077496928579082 --------
+x1 Ring of wealth lvl-5-enchant-water-staff
+|--x1 Dragonstone ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}}
+
+Tree ID: 4882425888116961271 --------
+x1 Skills necklace lvl-5-enchant-water-staff
+|--x1 Dragon necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}}
+
+Tree ID: 1924398463550274817 --------
+x1 Combat bracelet lvl-5-enchant-water-staff
+|--x1 Dragonstone bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}}
+
+Tree ID: 7867238986828558138 --------
+x1 Amulet of glory lvl-5-enchant-water-staff
+|--x1 Dragonstone amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}}
+
+Tree ID: 1771727647034745428 --------
+x1 Ring of stone lvl-6-enchant-lava-battlestaff
+|--x1 Onyx ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}}
+
+Tree ID: 4324674156963236810 --------
+x1 Berserker necklace lvl-6-enchant-lava-battlestaff
+|--x1 Onyx necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}}
+
+Tree ID: 7706342101174389773 --------
+x1 Regen bracelet lvl-6-enchant-lava-battlestaff
+|--x1 Onyx bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}}
+
+Tree ID: 4530871367519421196 --------
+x1 Amulet of fury lvl-6-enchant-lava-battlestaff
+|--x1 Onyx amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}}
+
+Tree ID: 8659919900692536722 --------
+x1 Ring of suffering lvl-7-enchant
+|--x1 Zenyte ring purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}}
+
+Tree ID: 2014845354230285234 --------
+x1 Necklace of anguish lvl-7-enchant
+|--x1 Zenyte necklace purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}}
+
+Tree ID: 6221771331966765649 --------
+x1 Tormented bracelet lvl-7-enchant
+|--x1 Zenyte bracelet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}}
+
+Tree ID: 3233911099035551385 --------
+x1 Amulet of torture lvl-7-enchant
+|--x1 Zenyte amulet purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}}
+
+Tree ID: 6393032858366591129 --------
+x1 Bronze bar furnace-bar-smelting
+|--x1 Tin ore purchased_from_ge
+|--x1 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 1, 'xp': 6.2}}
+
+Tree ID: 3856775172003496476 --------
+x1 Iron bar furnace-bar-smelting
+|--x2 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 15, 'xp': 12.5}}
+
+Tree ID: 558077999415158784 --------
+x1 Silver bar furnace-bar-smelting
+|--x1 Silver ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 438302623347346293 --------
+x1 Steel bar furnace-bar-smelting
+|--x1 Iron ore purchased_from_ge
+|--x2 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 30, 'xp': 17.5}}
+
+Tree ID: 1150813586532628948 --------
+x1 Gold bar furnace-bar-smelting
+|--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 892962009778838689 --------
+x1 Mithril bar furnace-bar-smelting
+|--x1 Mithril ore purchased_from_ge
+|--x4 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 50, 'xp': 30}}
+
+Tree ID: 6778330719531482798 --------
+x1 Adamantite bar furnace-bar-smelting
+|--x1 Adamantite ore purchased_from_ge
+|--x6 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 70, 'xp': 37.5}}
+
+Tree ID: 7393414612607202963 --------
+x1 Runite bar furnace-bar-smelting
+|--x1 Runite ore purchased_from_ge
+|--x8 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 85, 'xp': 50}}
+
+Tree ID: 3817862924419368825 --------
+x1 Bronze dagger bronze-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 1, 'xp': 12.5}}
+
+Tree ID: 2230950058843639805 --------
+x1 Bronze axe bronze-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 1, 'xp': 12.5}}
+
+Tree ID: 9139992645164590563 --------
+x1 Bronze mace bronze-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 2, 'xp': 12.5}}
+
+Tree ID: 930857985423860394 --------
+x1 Bronze med helm bronze-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 3, 'xp': 12.5}}
+
+Tree ID: 2088331452240204864 --------
+x1 Bronze bolts (unf) bronze-anvil-smithing
+|--x0.1 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 3, 'xp': 1.25}}
+
+Tree ID: 6857188612422298162 --------
+x1 Bronze wire bronze-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 4, 'xp': 12.5}}
+
+Tree ID: 8639166163903457390 --------
+x1 Bronze sword bronze-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 4, 'xp': 12.5}}
+
+Tree ID: 5399928708591355318 --------
+x1 Bronze dart tip bronze-anvil-smithing
+|--x0.1 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 4, 'xp': 1.25}}
+
+Tree ID: 3519903769509758701 --------
+x1 Bronze nails bronze-anvil-smithing
+|--x0.0667 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 4, 'xp': 0.8334}}
+
+Tree ID: 4506152735459523977 --------
+x1 Bronze arrowtips bronze-anvil-smithing
+|--x0.0667 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 5, 'xp': 0.8334}}
+
+Tree ID: 1884105865480159383 --------
+x1 Bronze scimitar bronze-anvil-smithing
+|--x2 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 5, 'xp': 25}}
+
+Tree ID: 4804951323605114046 --------
+x1 Bronze spear bronze-barbarian-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+|--x1 Logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 5, 'xp': 25}}
+
+Tree ID: 4835916516516175600 --------
+x1 Bronze hasta bronze-barbarian-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+|--x1 Logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 5, 'xp': 25}}
+
+Tree ID: 330280478629951721 --------
+x1 Bronze limbs bronze-anvil-smithing
+|--x1 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 6, 'xp': 12.5}}
+
+Tree ID: 8224235787287243468 --------
+x1 Bronze javelin heads bronze-anvil-smithing
+|--x0.2 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 6, 'xp': 2.5}}
+
+Tree ID: 7050615156453237532 --------
+x1 Bronze longsword bronze-anvil-smithing
+|--x2 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 6, 'xp': 25}}
+
+Tree ID: 4471729851231815075 --------
+x1 Bronze full helm bronze-anvil-smithing
+|--x2 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 7, 'xp': 25}}
+
+Tree ID: 350104425453990434 --------
+x1 Bronze knife bronze-anvil-smithing
+|--x0.2 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 7, 'xp': 2.5}}
+
+Tree ID: 2821801342916001903 --------
+x1 Bronze sq shield bronze-anvil-smithing
+|--x2 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 8, 'xp': 25}}
+
+Tree ID: 5877738880771091790 --------
+x1 Bronze warhammer bronze-anvil-smithing
+|--x3 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 9, 'xp': 37.5}}
+
+Tree ID: 8386769050705383565 --------
+x1 Bronze battleaxe bronze-anvil-smithing
+|--x3 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 10, 'xp': 37.5}}
+
+Tree ID: 3129043903451277783 --------
+x1 Bronze chainbody bronze-anvil-smithing
+|--x3 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 11, 'xp': 37.5}}
+
+Tree ID: 2520274646550427514 --------
+x1 Bronze kiteshield bronze-anvil-smithing
+|--x3 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 12, 'xp': 37.5}}
+
+Tree ID: 4569570960394803855 --------
+x1 Bronze claws bronze-anvil-smithing
+|--x2 Bronze bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 13, 'xp': 25}}
+
+Tree ID: 5539915141678653656 --------
+x1 Bronze 2h sword bronze-anvil-smithing
+|--x3 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 14, 'xp': 37.5}}
+
+Tree ID: 653609879631475150 --------
+x1 Bronze platelegs bronze-anvil-smithing
+|--x3 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 16, 'xp': 37.5}}
+
+Tree ID: 5899073992223018077 --------
+x1 Bronze plateskirt bronze-anvil-smithing
+|--x3 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 16, 'xp': 37.5}}
+
+Tree ID: 473012555164091938 --------
+x1 Bronze platebody bronze-anvil-smithing
+|--x5 Bronze bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 18, 'xp': 62.5}}
+
+Tree ID: 8757869809041082952 --------
+x1 Iron dagger iron-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 15, 'xp': 25}}
+
+Tree ID: 610551842969799934 --------
+x1 Iron axe iron-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 16, 'xp': 25}}
+
+Tree ID: 4129397085030636235 --------
+x1 Iron mace iron-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 17, 'xp': 25}}
+
+Tree ID: 2466562634210256546 --------
+x1 Iron spit iron-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 17, 'xp': 25}}
+
+Tree ID: 3792166996961774836 --------
+x1 Iron med helm iron-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 18, 'xp': 25}}
+
+Tree ID: 4215053435826636779 --------
+x1 Iron bolts (unf) iron-anvil-smithing
+|--x0.1 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 18, 'xp': 2.5}}
+
+Tree ID: 3276976108427042823 --------
+x1 Iron sword iron-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 19, 'xp': 25}}
+
+Tree ID: 8079143767915649633 --------
+x1 Iron dart tip iron-anvil-smithing
+|--x0.1 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 19, 'xp': 2.5}}
+
+Tree ID: 2845624321115529392 --------
+x1 Iron nails iron-anvil-smithing
+|--x0.0667 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 19, 'xp': 1.6667}}
+
+Tree ID: 5629657119059938192 --------
+x1 Iron arrowtips iron-anvil-smithing
+|--x0.06667 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 20, 'xp': 1.6667}}
+
+Tree ID: 4072137846369473452 --------
+x1 Iron scimitar iron-anvil-smithing
+|--x2 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 20, 'xp': 50}}
+
+Tree ID: 6106442491093636470 --------
+x1 Iron spear iron-barbarian-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+|--x1 Oak logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 20, 'xp': 50}}
+
+Tree ID: 6559575154017744612 --------
+x1 Iron hasta iron-barbarian-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+|--x1 Oak logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 20, 'xp': 50}}
+
+Tree ID: 5147982080831103078 --------
+x1 Iron javelin heads iron-anvil-smithing
+|--x0.2 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 21, 'xp': 5}}
+
+Tree ID: 1347372804546578957 --------
+x1 Iron longsword iron-anvil-smithing
+|--x2 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 21, 'xp': 50}}
+
+Tree ID: 8163255935643848561 --------
+x1 Iron full helm iron-anvil-smithing
+|--x2 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 22, 'xp': 50}}
+
+Tree ID: 5550457920716564386 --------
+x1 Iron knife iron-anvil-smithing
+|--x0.2 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 22, 'xp': 5}}
+
+Tree ID: 288768370492937364 --------
+x1 Iron limbs iron-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 23, 'xp': 25}}
+
+Tree ID: 8117231819848256115 --------
+x1 Iron sq shield iron-anvil-smithing
+|--x2 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 23, 'xp': 50}}
+
+Tree ID: 2962885051095935140 --------
+x1 Iron warhammer iron-anvil-smithing
+|--x3 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 24, 'xp': 75}}
+
+Tree ID: 8061831135842505521 --------
+x1 Iron battleaxe iron-anvil-smithing
+|--x3 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 25, 'xp': 75}}
+
+Tree ID: 3119317567870048315 --------
+x1 Oil lantern frame iron-anvil-smithing
+|--x1 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 26, 'xp': 25}}
+
+Tree ID: 6808855565832657391 --------
+x1 Iron chainbody iron-anvil-smithing
+|--x3 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 26, 'xp': 75}}
+
+Tree ID: 667269865399175961 --------
+x1 Iron kiteshield iron-anvil-smithing
+|--x3 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 27, 'xp': 75}}
+
+Tree ID: 5827086652259883000 --------
+x1 Iron claws iron-anvil-smithing
+|--x2 Iron bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 28, 'xp': 50}}
+
+Tree ID: 3177467431879828245 --------
+x1 Iron 2h sword iron-anvil-smithing
+|--x3 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 29, 'xp': 75}}
+
+Tree ID: 1873990055132723225 --------
+x1 Iron platelegs iron-anvil-smithing
+|--x3 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 31, 'xp': 75}}
+
+Tree ID: 6184429875576089187 --------
+x1 Iron plateskirt iron-anvil-smithing
+|--x3 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 31, 'xp': 75}}
+
+Tree ID: 3285907688420713253 --------
+x1 Iron platebody iron-anvil-smithing
+|--x5 Iron bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 33, 'xp': 125}}
+
+Tree ID: 5569599484571161602 --------
+x1 Steel dagger steel-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 30, 'xp': 37.5}}
+
+Tree ID: 1341944117518768880 --------
+x1 Steel axe steel-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 31, 'xp': 37.5}}
+
+Tree ID: 1590650944046924387 --------
+x1 Steel mace steel-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 32, 'xp': 37.5}}
+
+Tree ID: 1806720190221917537 --------
+x1 Steel med helm steel-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 33, 'xp': 37.5}}
+
+Tree ID: 276456914527767641 --------
+x1 Steel bolts (unf) steel-anvil-smithing
+|--x0.1 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 33, 'xp': 3.75}}
+
+Tree ID: 8634174957345244845 --------
+x1 Steel sword steel-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 34, 'xp': 37.5}}
+
+Tree ID: 3884053949157628852 --------
+x1 Steel dart tip steel-anvil-smithing
+|--x0.1 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 34, 'xp': 3.75}}
+
+Tree ID: 330705160495929294 --------
+x1 Steel nails steel-anvil-smithing
+|--x0.0667 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 34, 'xp': 2.5}}
+
+Tree ID: 2713502405567076620 --------
+x1 Steel arrowtips steel-anvil-smithing
+|--x0.0667 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 35, 'xp': 2.5}}
+
+Tree ID: 1551405075071325107 --------
+x1 Cannonball steel-anvil-smithing
+|--x0.25 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 35, 'xp': 6.375}}
+
+Tree ID: 5434077443768391852 --------
+x1 Steel scimitar steel-anvil-smithing
+|--x2 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 35, 'xp': 75}}
+
+Tree ID: 158879560810088680 --------
+x1 Steel spear steel-barbarian-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+|--x1 Willow logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 35, 'xp': 75}}
+
+Tree ID: 6692732316841772279 --------
+x1 Steel hasta steel-barbarian-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+|--x1 Willow logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 35, 'xp': 75}}
+
+Tree ID: 3847060583971743402 --------
+x1 Steel limbs steel-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 36, 'xp': 37.5}}
+
+Tree ID: 5200040708645069650 --------
+x1 Steel javelin heads steel-anvil-smithing
+|--x0.2 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 36, 'xp': 7.5}}
+
+Tree ID: 4726748986122998083 --------
+x1 Steel longsword steel-anvil-smithing
+|--x2 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 36, 'xp': 75}}
+
+Tree ID: 5935143635894637598 --------
+x1 Steel studs steel-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 36, 'xp': 37.5}}
+
+Tree ID: 4243244869997704703 --------
+x1 Steel full helm steel-anvil-smithing
+|--x2 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 37, 'xp': 75}}
+
+Tree ID: 275545914715631510 --------
+x1 Steel knife steel-anvil-smithing
+|--x0.2 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 37, 'xp': 7.5}}
+
+Tree ID: 9193270353600549139 --------
+x1 Steel sq shield steel-anvil-smithing
+|--x2 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 38, 'xp': 75}}
+
+Tree ID: 2788367638090681871 --------
+x1 Steel warhammer steel-anvil-smithing
+|--x3 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 39, 'xp': 112.5}}
+
+Tree ID: 6309081309028248870 --------
+x1 Steel battleaxe steel-anvil-smithing
+|--x3 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 40, 'xp': 112.5}}
+
+Tree ID: 1827876039903961605 --------
+x1 Steel chainbody steel-anvil-smithing
+|--x3 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 41, 'xp': 112.5}}
+
+Tree ID: 2925804251285944306 --------
+x1 Steel kiteshield steel-anvil-smithing
+|--x3 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 42, 'xp': 112.5}}
+
+Tree ID: 3747598332746616570 --------
+x1 Steel claws steel-anvil-smithing
+|--x2 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 43, 'xp': 75}}
+
+Tree ID: 5071310206643375505 --------
+x1 Steel 2h sword steel-anvil-smithing
+|--x3 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 44, 'xp': 112.5}}
+
+Tree ID: 2100318686141069673 --------
+x1 Steel platelegs steel-anvil-smithing
+|--x3 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 46, 'xp': 112.5}}
+
+Tree ID: 1553276698721575494 --------
+x1 Steel plateskirt steel-anvil-smithing
+|--x3 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 46, 'xp': 112.5}}
+
+Tree ID: 1381287122294317599 --------
+x1 Steel platebody steel-anvil-smithing
+|--x5 Steel bar purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 48, 'xp': 187.5}}
+
+Tree ID: 1785858587201279483 --------
+x1 Bullseye lantern (unf) steel-anvil-smithing
+|--x1 Steel bar purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 49, 'xp': 37.5}}
+
+Tree ID: 503538086938898247 --------
+x1 Strip of cloth weaving
+|--x4 Ball of wool spinning
+   |--x4 Wool purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 10, 'xp': 22.0}}
+
+Tree ID: 4487166264323175759 --------
+x1 Pot pottery-wheel
+|--x1 Soft clay water-on-clay
+   |--x1 Clay purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 1, 'xp': 12.6}}
+
+Tree ID: 3121648855133232170 --------
+x1 Pie dish pottery-wheel
+|--x1 Soft clay water-on-clay
+   |--x1 Clay purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 7, 'xp': 25}}
+
+Tree ID: 8954793010237892935 --------
+x1 Bowl pottery-wheel
+|--x1 Soft clay water-on-clay
+   |--x1 Clay purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 8, 'xp': 33}}
+
+Tree ID: 502829378086390429 --------
+x1 Empty plant pot pottery-wheel
+|--x1 Soft clay water-on-clay
+   |--x1 Clay purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 19, 'xp': 37.5}}
+
+Tree ID: 2718252864771097859 --------
+x1 Pot lid pottery-wheel
+|--x1 Soft clay water-on-clay
+   |--x1 Clay purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 25, 'xp': 40}}
+
+Tree ID: 3255275948729718914 --------
+x1 Leather gloves needle-and-thread
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 1, 'xp': 13.8}}
+
+Tree ID: 3495568662028291359 --------
+x1 Leather boots needle-and-thread
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 7, 'xp': 16.25}}
+
+Tree ID: 2949994275275999902 --------
+x1 Leather cowl needle-and-thread
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 9, 'xp': 18.5}}
+
+Tree ID: 6624390483987785268 --------
+x1 Leather vambraces needle-and-thread
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 11, 'xp': 22}}
+
+Tree ID: 2655553470151023298 --------
+x1 Leather body needle-and-thread
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 14, 'xp': 25}}
+
+Tree ID: 1494575209977714890 --------
+x1 Leather chaps needle-and-thread
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 18, 'xp': 27}}
+
+Tree ID: 1521655702672913762 --------
+x1 Hardleather body needle-and-thread
+|--x1 Hard leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 28, 'xp': 35}}
+
+Tree ID: 8162330310511957911 --------
+x1 Spiky vambraces attach-item
+|--x1 Leather vambraces needle-and-thread
+   |--x1 Leather purchased_from_ge
+|--x1 Kebbit claws purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 32, 'xp': 28}}
+
+Tree ID: 504834218463237490 --------
+x1 Coif needle-and-thread
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 38, 'xp': 37}}
+
+Tree ID: 6824632030162726459 --------
+x1 Hard leather shield needle-and-thread
+|--x2 Oak shield purchased_from_ge
+|--x2 Hard leather tanner-npc
+   |--x2 Cowhide purchased_from_ge
+|--x15 Bronze nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 70}}
+
+Tree ID: 5135400999889921775 --------
+x1 Hard leather shield needle-and-thread
+|--x2 Oak shield purchased_from_ge
+|--x2 Hard leather purchased_from_ge
+|--x15 Bronze nails bronze-anvil-smithing
+   |--x1.0005 Bronze bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 70}, 'smithing': {'lvl': 4, 'xp': 12.501000000000001}}
+
+Tree ID: 3833669371817874467 --------
+x1 Studded body attach-item
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+|--x1 Steel studs purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 40}}
+
+Tree ID: 9016171999061760551 --------
+x1 Studded body attach-item
+|--x1 Leather purchased_from_ge
+|--x1 Steel studs steel-anvil-smithing
+   |--x1 Steel bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 40}, 'smithing': {'lvl': 36, 'xp': 37.5}}
+
+Tree ID: 7380458563564018513 --------
+x1 Studded chaps attach-item
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+|--x1 Steel studs purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 44, 'xp': 42}}
+
+Tree ID: 6957713115304059340 --------
+x1 Studded chaps attach-item
+|--x1 Leather purchased_from_ge
+|--x1 Steel studs steel-anvil-smithing
+   |--x1 Steel bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 44, 'xp': 42}, 'smithing': {'lvl': 36, 'xp': 37.5}}
+
+Tree ID: 1168853407274473881 --------
+x1 Green d'hide vamb needle-and-thread
+|--x1 Green dragon leather tanner-npc
+   |--x1 Green dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 57, 'xp': 62}}
+
+Tree ID: 5368299762215297326 --------
+x1 Green d'hide vamb needle-and-thread
+|--x1 Green dragon leather tan-leather-spell-fire-staff
+   |--x1 Green dragonhide purchased_from_ge
+   |--x0.2 Nature rune purchased_from_ge
+   |--x0.4 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 143}}
+
+Tree ID: 6336569075363953152 --------
+x1 Green d'hide chaps needle-and-thread
+|--x2 Green dragon leather tanner-npc
+   |--x2 Green dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 60, 'xp': 124}}
+
+Tree ID: 6413996218551248743 --------
+x1 Green d'hide chaps needle-and-thread
+|--x2 Green dragon leather tan-leather-spell-fire-staff
+   |--x2 Green dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 286}}
+
+Tree ID: 4881131997196111090 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather tanner-npc
+   |--x2 Green dragonhide purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 62, 'xp': 124}}
+
+Tree ID: 5635262762226643975 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather tan-leather-spell-fire-staff
+   |--x2 Green dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 286}}
+
+Tree ID: 5376632669868211811 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails steel-anvil-smithing
+   |--x1.0005 Steel bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 62, 'xp': 124}, 'smithing': {'lvl': 34, 'xp': 37.5}}
+
+Tree ID: 109223554605073525 --------
+x1 Green d'hide body needle-and-thread
+|--x3 Green dragon leather tanner-npc
+   |--x3 Green dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 63, 'xp': 186}}
+
+Tree ID: 2187612425139828562 --------
+x1 Green d'hide body needle-and-thread
+|--x3 Green dragon leather tan-leather-spell-fire-staff
+   |--x3 Green dragonhide purchased_from_ge
+   |--x0.6000000000000001 Nature rune purchased_from_ge
+   |--x1.2000000000000002 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 429}}
+
+Tree ID: 8996644539821312532 --------
+x1 Blue d'hide vamb needle-and-thread
+|--x1 Blue dragon leather tanner-npc
+   |--x1 Blue dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 66, 'xp': 70}}
+
+Tree ID: 7450312214519518137 --------
+x1 Blue d'hide vamb needle-and-thread
+|--x1 Blue dragon leather tan-leather-spell-fire-staff
+   |--x1 Blue dragonhide purchased_from_ge
+   |--x0.2 Nature rune purchased_from_ge
+   |--x0.4 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 151}}
+
+Tree ID: 186644918416544027 --------
+x1 Blue d'hide chaps needle-and-thread
+|--x2 Blue dragon leather tanner-npc
+   |--x2 Blue dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 68, 'xp': 140}}
+
+Tree ID: 809361309007078721 --------
+x1 Blue d'hide chaps needle-and-thread
+|--x2 Blue dragon leather tan-leather-spell-fire-staff
+   |--x2 Blue dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 302}}
+
+Tree ID: 1102177682212821019 --------
+x1 Blue d'hide shield needle-and-thread
+|--x2 Blue dragon leather tanner-npc
+   |--x2 Blue dragonhide purchased_from_ge
+|--x1 Yew shield purchased_from_ge
+|--x15 Mithril nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 69, 'xp': 140}}
+
+Tree ID: 8290535797761772301 --------
+x1 Blue d'hide shield needle-and-thread
+|--x2 Blue dragon leather tan-leather-spell-fire-staff
+   |--x2 Blue dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+|--x1 Yew shield purchased_from_ge
+|--x15 Mithril nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 302}}
+
+Tree ID: 8683986055330789603 --------
+x1 Blue d'hide body needle-and-thread
+|--x3 Blue dragon leather tanner-npc
+   |--x3 Blue dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 71, 'xp': 210}}
+
+Tree ID: 3177112134585694352 --------
+x1 Blue d'hide body needle-and-thread
+|--x3 Blue dragon leather tan-leather-spell-fire-staff
+   |--x3 Blue dragonhide purchased_from_ge
+   |--x0.6000000000000001 Nature rune purchased_from_ge
+   |--x1.2000000000000002 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 453}}
+
+Tree ID: 31278439004584230 --------
+x1 Red d'hide vamb needle-and-thread
+|--x1 Red dragon leather tanner-npc
+   |--x1 Red dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 73, 'xp': 78}}
+
+Tree ID: 1854616513422806799 --------
+x1 Red d'hide vamb needle-and-thread
+|--x1 Red dragon leather tan-leather-spell-fire-staff
+   |--x1 Red dragonhide purchased_from_ge
+   |--x0.2 Nature rune purchased_from_ge
+   |--x0.4 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 159}}
+
+Tree ID: 4903972959210335576 --------
+x1 Red d'hide chaps needle-and-thread
+|--x2 Red dragon leather tanner-npc
+   |--x2 Red dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 75, 'xp': 156}}
+
+Tree ID: 4679654177477424575 --------
+x1 Red d'hide chaps needle-and-thread
+|--x2 Red dragon leather tan-leather-spell-fire-staff
+   |--x2 Red dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 318}}
+
+Tree ID: 6852482739310880687 --------
+x1 Red d'hide shield needle-and-thread
+|--x2 Red dragon leather tanner-npc
+   |--x2 Red dragonhide purchased_from_ge
+|--x1 Magic shield purchased_from_ge
+|--x15 Adamantite nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 76, 'xp': 156}}
+
+Tree ID: 1782043797646893386 --------
+x1 Red d'hide shield needle-and-thread
+|--x2 Red dragon leather tan-leather-spell-fire-staff
+   |--x2 Red dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+|--x1 Magic shield purchased_from_ge
+|--x15 Adamantite nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 318}}
+
+Tree ID: 4994164246910410294 --------
+x1 Red d'hide body needle-and-thread
+|--x3 Red dragon leather tanner-npc
+   |--x3 Red dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 77, 'xp': 234}}
+
+Tree ID: 1747201275120124476 --------
+x1 Red d'hide body needle-and-thread
+|--x3 Red dragon leather tan-leather-spell-fire-staff
+   |--x3 Red dragonhide purchased_from_ge
+   |--x0.6000000000000001 Nature rune purchased_from_ge
+   |--x1.2000000000000002 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 477}}
+
+Tree ID: 7800368335502751730 --------
+x1 Black d'hide vamb needle-and-thread
+|--x1 Black dragon leather tanner-npc
+   |--x1 Black dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 79, 'xp': 86}}
+
+Tree ID: 5950569547238031587 --------
+x1 Black d'hide vamb needle-and-thread
+|--x1 Black dragon leather tan-leather-spell-fire-staff
+   |--x1 Black dragonhide purchased_from_ge
+   |--x0.2 Nature rune purchased_from_ge
+   |--x0.4 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 79, 'xp': 167}}
+
+Tree ID: 9164001742417455248 --------
+x1 Black d'hide chaps needle-and-thread
+|--x2 Black dragon leather tanner-npc
+   |--x2 Black dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 82, 'xp': 172}}
+
+Tree ID: 497523571880288978 --------
+x1 Black d'hide chaps needle-and-thread
+|--x2 Black dragon leather tan-leather-spell-fire-staff
+   |--x2 Black dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 82, 'xp': 334}}
+
+Tree ID: 3705446458900076145 --------
+x1 Black d'hide shield needle-and-thread
+|--x2 Black dragon leather tanner-npc
+   |--x2 Black dragonhide purchased_from_ge
+|--x1 Redwood shield purchased_from_ge
+|--x15 Rune nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 83, 'xp': 172}}
+
+Tree ID: 6169313974047849165 --------
+x1 Black d'hide shield needle-and-thread
+|--x2 Black dragon leather tan-leather-spell-fire-staff
+   |--x2 Black dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+|--x1 Redwood shield purchased_from_ge
+|--x15 Rune nails purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 83, 'xp': 334}}
+
+Tree ID: 6631644073164787038 --------
+x1 Black d'hide body needle-and-thread
+|--x3 Black dragon leather tanner-npc
+   |--x3 Black dragonhide purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 84, 'xp': 258}}
+
+Tree ID: 8908316302628274978 --------
+x1 Black d'hide body needle-and-thread
+|--x3 Black dragon leather tan-leather-spell-fire-staff
+   |--x3 Black dragonhide purchased_from_ge
+   |--x0.6000000000000001 Nature rune purchased_from_ge
+   |--x1.2000000000000002 Astral rune purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 84, 'xp': 501}}
+
+Tree ID: 8170254386383818849 --------
+x1 Opal ring silver-bar-furnace
+|--x1 Opal chisel-gem-cut
+   |--x1 Uncut opal purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 25}}
+
+Tree ID: 365400388675296251 --------
+x1 Opal ring silver-bar-furnace
+|--x1 Opal purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 10}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 2793665583110225417 --------
+x1 Opal necklace silver-bar-furnace
+|--x1 Opal chisel-gem-cut
+   |--x1 Uncut opal purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 50}}
+
+Tree ID: 3274414317076705748 --------
+x1 Opal necklace silver-bar-furnace
+|--x1 Opal purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 35}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 2818846618105021132 --------
+x1 Opal bracelet silver-bar-furnace
+|--x1 Opal chisel-gem-cut
+   |--x1 Uncut opal purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 22, 'xp': 60}}
+
+Tree ID: 6825646935531137421 --------
+x1 Opal bracelet silver-bar-furnace
+|--x1 Opal purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 22, 'xp': 45}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 4880907123607922353 --------
+x1 Opal amulet silver-bar-furnace
+|--x1 Opal chisel-gem-cut
+   |--x1 Uncut opal purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 27, 'xp': 70}}
+
+Tree ID: 7200106836308571709 --------
+x1 Opal amulet silver-bar-furnace
+|--x1 Opal purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 27, 'xp': 55}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 1238369936868777012 --------
+x1 Ring of returning(5) lvl-2-enchant-air-staff
+|--x1 Emerald amulet gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 31, 'xp': 70}}
+
+Tree ID: 5020243243822552936 --------
+x1 Jade necklace silver-bar-furnace
+|--x1 Jade chisel-gem-cut
+   |--x1 Uncut jade purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 25, 'xp': 74}}
+
+Tree ID: 2497153214711387358 --------
+x1 Jade necklace silver-bar-furnace
+|--x1 Jade purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 25, 'xp': 54}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 3905541961194724546 --------
+x1 Jade bracelet silver-bar-furnace
+|--x1 Jade chisel-gem-cut
+   |--x1 Uncut jade purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 29, 'xp': 80}}
+
+Tree ID: 2976230658866410254 --------
+x1 Jade bracelet silver-bar-furnace
+|--x1 Jade purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 29, 'xp': 60}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 2239620409176074024 --------
+x1 Jade amulet silver-bar-furnace
+|--x1 Jade chisel-gem-cut
+   |--x1 Uncut jade purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 34, 'xp': 90}}
+
+Tree ID: 7388490522624733596 --------
+x1 Jade amulet silver-bar-furnace
+|--x1 Jade purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 34, 'xp': 70}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 7304044303623460465 --------
+x1 Topaz ring silver-bar-furnace
+|--x1 Red topaz chisel-gem-cut
+   |--x1 Uncut red topaz purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 60}}
+
+Tree ID: 4993682796935528020 --------
+x1 Topaz ring silver-bar-furnace
+|--x1 Red topaz purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 35}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 3506101818611005554 --------
+x1 Topaz necklace silver-bar-furnace
+|--x1 Red topaz chisel-gem-cut
+   |--x1 Uncut red topaz purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 32, 'xp': 95}}
+
+Tree ID: 2574138568140460940 --------
+x1 Topaz necklace silver-bar-furnace
+|--x1 Red topaz purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 32, 'xp': 70}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 2220884307727922739 --------
+x1 Topaz bracelet silver-bar-furnace
+|--x1 Red topaz chisel-gem-cut
+   |--x1 Uncut red topaz purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 38, 'xp': 100}}
+
+Tree ID: 1676319902216792361 --------
+x1 Topaz bracelet silver-bar-furnace
+|--x1 Red topaz purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 38, 'xp': 75}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 2272658839336955008 --------
+x1 Topaz amulet silver-bar-furnace
+|--x1 Red topaz chisel-gem-cut
+   |--x1 Uncut red topaz purchased_from_ge
+|--x1 Silver bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 45, 'xp': 105}}
+
+Tree ID: 3674984684611686032 --------
+x1 Topaz amulet silver-bar-furnace
+|--x1 Red topaz purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 45, 'xp': 80}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 5688096403160933344 --------
+x1 Gold ring gold-bar-furnace
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 5, 'xp': 15}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3560712890069726336 --------
+x1 Gold necklace gold-bar-furnace
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 6, 'xp': 20}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5527599451348636361 --------
+x1 Gold bracelet gold-bar-furnace
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 7, 'xp': 25}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6008949109402513985 --------
+x1 Gold amulet gold-bar-furnace
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 8, 'xp': 30}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8459502109167785143 --------
+x1 Sapphire ring gold-bar-furnace
+|--x1 Sapphire chisel-gem-cut
+   |--x1 Uncut sapphire purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 20, 'xp': 90}}
+
+Tree ID: 1763242491231895431 --------
+x1 Sapphire ring gold-bar-furnace
+|--x1 Sapphire purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 20, 'xp': 40}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4919152245634214500 --------
+x1 Sapphire necklace gold-bar-furnace
+|--x1 Sapphire chisel-gem-cut
+   |--x1 Uncut sapphire purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 22, 'xp': 105}}
+
+Tree ID: 171643219827053828 --------
+x1 Sapphire necklace gold-bar-furnace
+|--x1 Sapphire purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 22, 'xp': 55}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3974654943641617093 --------
+x1 Sapphire bracelet gold-bar-furnace
+|--x1 Sapphire chisel-gem-cut
+   |--x1 Uncut sapphire purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 23, 'xp': 110}}
+
+Tree ID: 7683797132729317324 --------
+x1 Sapphire bracelet gold-bar-furnace
+|--x1 Sapphire purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 23, 'xp': 60}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2240077487405841024 --------
+x1 Sapphire amulet gold-bar-furnace
+|--x1 Sapphire chisel-gem-cut
+   |--x1 Uncut sapphire purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 24, 'xp': 115}}
+
+Tree ID: 8749143900955888533 --------
+x1 Sapphire amulet gold-bar-furnace
+|--x1 Sapphire purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 24, 'xp': 65}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2691314791847612341 --------
+x1 Emerald ring gold-bar-furnace
+|--x1 Emerald chisel-gem-cut
+   |--x1 Uncut emerald purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 27, 'xp': 122.5}}
+
+Tree ID: 7145336651215713597 --------
+x1 Emerald ring gold-bar-furnace
+|--x1 Emerald purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 27, 'xp': 55}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3502807773891199590 --------
+x1 Emerald necklace gold-bar-furnace
+|--x1 Emerald chisel-gem-cut
+   |--x1 Uncut emerald purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 29, 'xp': 127.5}}
+
+Tree ID: 5973749418378591582 --------
+x1 Emerald necklace gold-bar-furnace
+|--x1 Emerald purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 29, 'xp': 60}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4334582732950732093 --------
+x1 Emerald bracelet gold-bar-furnace
+|--x1 Emerald chisel-gem-cut
+   |--x1 Uncut emerald purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 30, 'xp': 132.5}}
+
+Tree ID: 3155577740329202050 --------
+x1 Emerald bracelet gold-bar-furnace
+|--x1 Emerald purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 30, 'xp': 65}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2495427268490418085 --------
+x1 Emerald amulet gold-bar-furnace
+|--x1 Emerald chisel-gem-cut
+   |--x1 Uncut emerald purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 31, 'xp': 137.5}}
+
+Tree ID: 2147503820003120728 --------
+x1 Emerald amulet gold-bar-furnace
+|--x1 Emerald purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 31, 'xp': 70}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8603173619879110936 --------
+x1 Ruby ring gold-bar-furnace
+|--x1 Ruby chisel-gem-cut
+   |--x1 Uncut ruby purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 34, 'xp': 155}}
+
+Tree ID: 2965735870540693847 --------
+x1 Ruby ring gold-bar-furnace
+|--x1 Ruby purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 34, 'xp': 70}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2269708425008928297 --------
+x1 Ruby necklace gold-bar-furnace
+|--x1 Ruby chisel-gem-cut
+   |--x1 Uncut ruby purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 40, 'xp': 160}}
+
+Tree ID: 911461302123598521 --------
+x1 Ruby necklace gold-bar-furnace
+|--x1 Ruby purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 40, 'xp': 75}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8347793382027515664 --------
+x1 Ruby bracelet gold-bar-furnace
+|--x1 Ruby chisel-gem-cut
+   |--x1 Uncut ruby purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 42, 'xp': 165}}
+
+Tree ID: 6574442462022324992 --------
+x1 Ruby bracelet gold-bar-furnace
+|--x1 Ruby purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 42, 'xp': 80}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4699758898545232139 --------
+x1 Ruby amulet gold-bar-furnace
+|--x1 Ruby chisel-gem-cut
+   |--x1 Uncut ruby purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 50, 'xp': 170}}
+
+Tree ID: 6112062064971605949 --------
+x1 Ruby amulet gold-bar-furnace
+|--x1 Ruby purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 50, 'xp': 85}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7448540744199607645 --------
+x1 Diamond ring gold-bar-furnace
+|--x1 Diamond chisel-gem-cut
+   |--x1 Uncut diamond purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 43, 'xp': 192.5}}
+
+Tree ID: 1570747056827793077 --------
+x1 Diamond ring gold-bar-furnace
+|--x1 Diamond purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 43, 'xp': 85}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 739149672895977054 --------
+x1 Diamond necklace gold-bar-furnace
+|--x1 Diamond chisel-gem-cut
+   |--x1 Uncut diamond purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 56, 'xp': 197.5}}
+
+Tree ID: 7608030684931307260 --------
+x1 Diamond necklace gold-bar-furnace
+|--x1 Diamond purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 56, 'xp': 90}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5197231529576273025 --------
+x1 Diamond bracelet gold-bar-furnace
+|--x1 Diamond chisel-gem-cut
+   |--x1 Uncut diamond purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 58, 'xp': 202.5}}
+
+Tree ID: 6921650520663493506 --------
+x1 Diamond bracelet gold-bar-furnace
+|--x1 Diamond purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 58, 'xp': 95}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6479083839612096025 --------
+x1 Diamond amulet gold-bar-furnace
+|--x1 Diamond chisel-gem-cut
+   |--x1 Uncut diamond purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 70, 'xp': 207.5}}
+
+Tree ID: 8604095343185783096 --------
+x1 Diamond amulet gold-bar-furnace
+|--x1 Diamond purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 70, 'xp': 100}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6637547334324423870 --------
+x1 Dragonstone ring gold-bar-furnace
+|--x1 Dragonstone chisel-gem-cut
+   |--x1 Uncut dragonstone purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 55, 'xp': 237.5}}
+
+Tree ID: 3810315713346363501 --------
+x1 Dragonstone ring gold-bar-furnace
+|--x1 Dragonstone purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 55, 'xp': 100}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7524911451097701794 --------
+x1 Dragon necklace gold-bar-furnace
+|--x1 Dragonstone chisel-gem-cut
+   |--x1 Uncut dragonstone purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 72, 'xp': 242.5}}
+
+Tree ID: 6310766712539702136 --------
+x1 Dragon necklace gold-bar-furnace
+|--x1 Dragonstone purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 72, 'xp': 105}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 375925427909536457 --------
+x1 Dragonstone bracelet gold-bar-furnace
+|--x1 Dragonstone chisel-gem-cut
+   |--x1 Uncut dragonstone purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 74, 'xp': 247.5}}
+
+Tree ID: 3338717890167921903 --------
+x1 Dragonstone bracelet gold-bar-furnace
+|--x1 Dragonstone purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 74, 'xp': 110}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7444763317099007927 --------
+x1 Dragonstone amulet gold-bar-furnace
+|--x1 Dragonstone chisel-gem-cut
+   |--x1 Uncut dragonstone purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 80, 'xp': 287.5}}
+
+Tree ID: 5193348434502855614 --------
+x1 Dragonstone amulet gold-bar-furnace
+|--x1 Dragonstone purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 80, 'xp': 150}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3788073124822323287 --------
+x1 Slayer ring gold-bar-furnace
+|--x1 Enchanted gem purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 75, 'xp': 15}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 403420519983478168 --------
+x1 Slayer ring (eternal) gold-bar-furnace
+|--x1 Eternal gem purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 75, 'xp': 15}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2423995779054685368 --------
+x1 Onyx ring gold-bar-furnace
+|--x1 Onyx chisel-gem-cut
+   |--x1 Uncut onyx purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 67, 'xp': 282.5}}
+
+Tree ID: 3809571203670380761 --------
+x1 Onyx ring gold-bar-furnace
+|--x1 Onyx purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 67, 'xp': 115}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7976509350840042081 --------
+x1 Onyx necklace gold-bar-furnace
+|--x1 Onyx chisel-gem-cut
+   |--x1 Uncut onyx purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 82, 'xp': 287.5}}
+
+Tree ID: 2247772411465781833 --------
+x1 Onyx necklace gold-bar-furnace
+|--x1 Onyx purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 82, 'xp': 120}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6902027348768489770 --------
+x1 Onyx bracelet gold-bar-furnace
+|--x1 Onyx chisel-gem-cut
+   |--x1 Uncut onyx purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 84, 'xp': 292.5}}
+
+Tree ID: 1498022221742293607 --------
+x1 Onyx bracelet gold-bar-furnace
+|--x1 Onyx purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 84, 'xp': 125}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8016923971394592424 --------
+x1 Onyx amulet gold-bar-furnace
+|--x1 Onyx chisel-gem-cut
+   |--x1 Uncut onyx purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 90, 'xp': 332.5}}
+
+Tree ID: 6354292553132967479 --------
+x1 Onyx amulet gold-bar-furnace
+|--x1 Onyx purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 90, 'xp': 165}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8988099105702597073 --------
+x1 Zenyte ring gold-bar-furnace
+|--x1 Zenyte chisel-gem-cut
+   |--x1 Uncut zenyte purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 89, 'xp': 350}}
+
+Tree ID: 7757366601582059733 --------
+x1 Zenyte ring gold-bar-furnace
+|--x1 Zenyte purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 89, 'xp': 150}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8505840710951281692 --------
+x1 Zenyte necklace gold-bar-furnace
+|--x1 Zenyte chisel-gem-cut
+   |--x1 Uncut zenyte purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 92, 'xp': 365}}
+
+Tree ID: 4884423988972932052 --------
+x1 Zenyte necklace gold-bar-furnace
+|--x1 Zenyte purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 92, 'xp': 165}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1287164220752750292 --------
+x1 Zenyte bracelet gold-bar-furnace
+|--x1 Zenyte chisel-gem-cut
+   |--x1 Uncut zenyte purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 95, 'xp': 380}}
+
+Tree ID: 444569501088684288 --------
+x1 Zenyte bracelet gold-bar-furnace
+|--x1 Zenyte purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 95, 'xp': 180}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5470140126764981003 --------
+x1 Zenyte amulet gold-bar-furnace
+|--x1 Zenyte chisel-gem-cut
+   |--x1 Uncut zenyte purchased_from_ge
+|--x1 Gold bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 98, 'xp': 400}}
+
+Tree ID: 5130679810740144686 --------
+x1 Zenyte amulet gold-bar-furnace
+|--x1 Zenyte purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 98, 'xp': 200}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1399564168690016807 --------
+x1 Silver bolts (unf) silver-bar-furnace
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 21, 'xp': 50}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 4749645695992828351 --------
+x1 Unstrung symbol silver-bar-furnace
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 16, 'xp': 50}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 6357087175875377863 --------
+x1 Unstrung emblem silver-bar-furnace
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 17, 'xp': 50}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 9214677303777293394 --------
+x1 Tiara silver-bar-furnace
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 23, 'xp': 52.5}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 5456446033920879225 --------
+x1 Ring of recoil lvl-1-enchant-water-staff
+|--x1 Sapphire ring gold-bar-furnace
+   |--x1 Sapphire purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 20, 'xp': 40}}
+
+Tree ID: 7570763044510740569 --------
+x1 Games necklace(8) lvl-1-enchant-water-staff
+|--x1 Sapphire necklace gold-bar-furnace
+   |--x1 Sapphire purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 22, 'xp': 55}}
+
+Tree ID: 5461167863320980153 --------
+x1 Bracelet of clay lvl-1-enchant-water-staff
+|--x1 Sapphire bracelet gold-bar-furnace
+   |--x1 Sapphire purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 23, 'xp': 60}}
+
+Tree ID: 161886559306200238 --------
+x1 Amulet of magic lvl-1-enchant-water-staff
+|--x1 Sapphire amulet gold-bar-furnace
+   |--x1 Sapphire purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 24, 'xp': 65}}
+
+Tree ID: 3041093138528287533 --------
+x1 Ring of pursuit lvl-1-enchant-water-staff
+|--x1 Opal ring silver-bar-furnace
+   |--x1 Opal purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 1, 'xp': 10}}
+
+Tree ID: 2075941444116022345 --------
+x1 Expeditious bracelet lvl-1-enchant-water-staff
+|--x1 Opal bracelet silver-bar-furnace
+   |--x1 Opal purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 22, 'xp': 45}}
+
+Tree ID: 423818915305079010 --------
+x1 Dodgy necklace lvl-1-enchant-water-staff
+|--x1 Opal necklace silver-bar-furnace
+   |--x1 Opal purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 16, 'xp': 35}}
+
+Tree ID: 7737615090731797760 --------
+x1 Amulet of bounty lvl-1-enchant-water-staff
+|--x1 Opal amulet silver-bar-furnace
+   |--x1 Opal purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 27, 'xp': 55}}
+
+Tree ID: 8686182403308508826 --------
+x1 Ring of dueling(8) lvl-2-enchant-air-staff
+|--x1 Emerald ring gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 27, 'xp': 55}}
+
+Tree ID: 7876869282136912583 --------
+x1 Binding necklace lvl-2-enchant-air-staff
+|--x1 Emerald necklace gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 29, 'xp': 60}}
+
+Tree ID: 5425257856055332829 --------
+x1 Castle wars bracelet(3) lvl-2-enchant-air-staff
+|--x1 Emerald bracelet gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 30, 'xp': 65}}
+
+Tree ID: 2221989182237168811 --------
+x1 Amulet of defence lvl-2-enchant-air-staff
+|--x1 Emerald amulet gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 31, 'xp': 70}}
+
+Tree ID: 1844608893630600317 --------
+x1 Necklace of passage(5) lvl-2-enchant-air-staff
+|--x1 Jade necklace silver-bar-furnace
+   |--x1 Jade purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 25, 'xp': 54}}
+
+Tree ID: 7000986895822183978 --------
+x1 Flamtaer bracelet lvl-2-enchant-air-staff
+|--x1 Jade bracelet silver-bar-furnace
+   |--x1 Jade purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 29, 'xp': 60}}
+
+Tree ID: 4625179120771865798 --------
+x1 Amulet of chemistry lvl-2-enchant-air-staff
+|--x1 Jade amulet silver-bar-furnace
+   |--x1 Jade purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 34, 'xp': 70}}
+
+Tree ID: 896241794560548355 --------
+x1 Ring of forging lvl-3-enchant-fire-staff
+|--x1 Ruby ring gold-bar-furnace
+   |--x1 Ruby purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 34, 'xp': 70}}
+
+Tree ID: 2351565113259552867 --------
+x1 Inoculation bracelet lvl-3-enchant-fire-staff
+|--x1 Ruby bracelet gold-bar-furnace
+   |--x1 Ruby purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 42, 'xp': 80}}
+
+Tree ID: 5393449678600753143 --------
+x1 Amulet of strength lvl-3-enchant-fire-staff
+|--x1 Ruby amulet gold-bar-furnace
+   |--x1 Ruby purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 50, 'xp': 85}}
+
+Tree ID: 3099013849449660532 --------
+x1 Digsite pendant lvl-3-enchant-fire-staff
+|--x1 Ruby necklace gold-bar-furnace
+   |--x1 Ruby purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 40, 'xp': 75}}
+
+Tree ID: 2473650083183651484 --------
+x1 Efaritay's aid lvl-3-enchant-fire-staff
+|--x1 Topaz ring silver-bar-furnace
+   |--x1 Red topaz purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 16, 'xp': 35}}
+
+Tree ID: 8987063340467667382 --------
+x1 Bracelet of slaughter lvl-3-enchant-fire-staff
+|--x1 Topaz bracelet silver-bar-furnace
+   |--x1 Red topaz purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 38, 'xp': 75}}
+
+Tree ID: 3998936374305065744 --------
+x1 Necklace of faith lvl-3-enchant-fire-staff
+|--x1 Topaz necklace silver-bar-furnace
+   |--x1 Red topaz purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 32, 'xp': 70}}
+
+Tree ID: 5129186132376257636 --------
+x1 Burning amulet lvl-3-enchant-fire-staff
+|--x1 Topaz amulet silver-bar-furnace
+   |--x1 Red topaz purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 45, 'xp': 80}}
+
+Tree ID: 3568317141608099505 --------
+x1 Ring of life lvl-4-enchant-earth-staff
+|--x1 Diamond ring gold-bar-furnace
+   |--x1 Diamond purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 43, 'xp': 85}}
+
+Tree ID: 6078389974587560047 --------
+x1 Phoenix necklace lvl-4-enchant-earth-staff
+|--x1 Diamond necklace gold-bar-furnace
+   |--x1 Diamond purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 56, 'xp': 90}}
+
+Tree ID: 6731479976301928003 --------
+x1 Abyssal bracelet lvl-4-enchant-earth-staff
+|--x1 Diamond bracelet gold-bar-furnace
+   |--x1 Diamond purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 58, 'xp': 95}}
+
+Tree ID: 3696569945662810359 --------
+x1 Amulet of power lvl-4-enchant-earth-staff
+|--x1 Diamond amulet gold-bar-furnace
+   |--x1 Diamond purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 70, 'xp': 100}}
+
+Tree ID: 1092220116929392382 --------
+x1 Ring of wealth lvl-5-enchant-water-staff
+|--x1 Dragonstone ring gold-bar-furnace
+   |--x1 Dragonstone purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 55, 'xp': 100}}
+
+Tree ID: 3465502422753877654 --------
+x1 Skills necklace lvl-5-enchant-water-staff
+|--x1 Dragon necklace gold-bar-furnace
+   |--x1 Dragonstone purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 72, 'xp': 105}}
+
+Tree ID: 608993635112160891 --------
+x1 Combat bracelet lvl-5-enchant-water-staff
+|--x1 Dragonstone bracelet gold-bar-furnace
+   |--x1 Dragonstone purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 74, 'xp': 110}}
+
+Tree ID: 5343994528046606726 --------
+x1 Amulet of glory lvl-5-enchant-water-staff
+|--x1 Dragonstone amulet gold-bar-furnace
+   |--x1 Dragonstone purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 80, 'xp': 150}}
+
+Tree ID: 4546922682956854839 --------
+x1 Ring of stone lvl-6-enchant-lava-battlestaff
+|--x1 Onyx ring gold-bar-furnace
+   |--x1 Onyx purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 67, 'xp': 115}}
+
+Tree ID: 4450039340266491362 --------
+x1 Berserker necklace lvl-6-enchant-lava-battlestaff
+|--x1 Onyx necklace gold-bar-furnace
+   |--x1 Onyx purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 82, 'xp': 120}}
+
+Tree ID: 4141379893474736364 --------
+x1 Regen bracelet lvl-6-enchant-lava-battlestaff
+|--x1 Onyx bracelet gold-bar-furnace
+   |--x1 Onyx purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 84, 'xp': 125}}
+
+Tree ID: 2768030948713663509 --------
+x1 Amulet of fury lvl-6-enchant-lava-battlestaff
+|--x1 Onyx amulet gold-bar-furnace
+   |--x1 Onyx purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 90, 'xp': 165}}
+
+Tree ID: 5123910272234555507 --------
+x1 Ring of suffering lvl-7-enchant
+|--x1 Zenyte ring gold-bar-furnace
+   |--x1 Zenyte purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 89, 'xp': 150}}
+
+Tree ID: 5889826640913091819 --------
+x1 Necklace of anguish lvl-7-enchant
+|--x1 Zenyte necklace gold-bar-furnace
+   |--x1 Zenyte purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 92, 'xp': 165}}
+
+Tree ID: 5411429443395174578 --------
+x1 Tormented bracelet lvl-7-enchant
+|--x1 Zenyte bracelet gold-bar-furnace
+   |--x1 Zenyte purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 95, 'xp': 180}}
+
+Tree ID: 6183280850349038875 --------
+x1 Amulet of torture lvl-7-enchant
+|--x1 Zenyte amulet gold-bar-furnace
+   |--x1 Zenyte purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 98, 'xp': 200}}
+
+Tree ID: 2376324511621562140 --------
+x1 Bronze dagger bronze-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 1, 'xp': 18.7}}
+
+Tree ID: 3195484375189277384 --------
+x1 Bronze axe bronze-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 1, 'xp': 18.7}}
+
+Tree ID: 2257488929501356557 --------
+x1 Bronze mace bronze-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 2, 'xp': 18.7}}
+
+Tree ID: 7812651918695267470 --------
+x1 Bronze med helm bronze-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 3, 'xp': 18.7}}
+
+Tree ID: 4462915852252350620 --------
+x1 Bronze bolts (unf) bronze-anvil-smithing
+|--x0.1 Bronze bar furnace-bar-smelting
+   |--x0.1 Tin ore purchased_from_ge
+   |--x0.1 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 3, 'xp': 1.87}}
+
+Tree ID: 7359359680226651230 --------
+x1 Bronze wire bronze-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 4, 'xp': 18.7}}
+
+Tree ID: 3572796380868905604 --------
+x1 Bronze sword bronze-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 4, 'xp': 18.7}}
+
+Tree ID: 8727973997493540407 --------
+x1 Bronze dart tip bronze-anvil-smithing
+|--x0.1 Bronze bar furnace-bar-smelting
+   |--x0.1 Tin ore purchased_from_ge
+   |--x0.1 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 4, 'xp': 1.87}}
+
+Tree ID: 7201194909246738937 --------
+x1 Bronze nails bronze-anvil-smithing
+|--x0.0667 Bronze bar furnace-bar-smelting
+   |--x0.0667 Tin ore purchased_from_ge
+   |--x0.0667 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 4, 'xp': 1.24694}}
+
+Tree ID: 5674991080603397394 --------
+x1 Bronze arrowtips bronze-anvil-smithing
+|--x0.0667 Bronze bar furnace-bar-smelting
+   |--x0.0667 Tin ore purchased_from_ge
+   |--x0.0667 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 5, 'xp': 1.24694}}
+
+Tree ID: 1808268368490687345 --------
+x1 Bronze scimitar bronze-anvil-smithing
+|--x2 Bronze bar furnace-bar-smelting
+   |--x2 Tin ore purchased_from_ge
+   |--x2 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 5, 'xp': 37.4}}
+
+Tree ID: 7807707428860685061 --------
+x1 Bronze spear bronze-barbarian-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+|--x1 Logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 5, 'xp': 31.2}}
+
+Tree ID: 5759037612777200127 --------
+x1 Bronze hasta bronze-barbarian-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+|--x1 Logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 5, 'xp': 31.2}}
+
+Tree ID: 155391725462160660 --------
+x1 Bronze limbs bronze-anvil-smithing
+|--x1 Bronze bar furnace-bar-smelting
+   |--x1 Tin ore purchased_from_ge
+   |--x1 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 6, 'xp': 18.7}}
+
+Tree ID: 2161192326465621732 --------
+x1 Bronze javelin heads bronze-anvil-smithing
+|--x0.2 Bronze bar furnace-bar-smelting
+   |--x0.2 Tin ore purchased_from_ge
+   |--x0.2 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 6, 'xp': 3.74}}
+
+Tree ID: 9145302321353393963 --------
+x1 Bronze longsword bronze-anvil-smithing
+|--x2 Bronze bar furnace-bar-smelting
+   |--x2 Tin ore purchased_from_ge
+   |--x2 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 6, 'xp': 37.4}}
+
+Tree ID: 2516794149116043470 --------
+x1 Bronze full helm bronze-anvil-smithing
+|--x2 Bronze bar furnace-bar-smelting
+   |--x2 Tin ore purchased_from_ge
+   |--x2 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 7, 'xp': 37.4}}
+
+Tree ID: 6049487648024527152 --------
+x1 Bronze knife bronze-anvil-smithing
+|--x0.2 Bronze bar furnace-bar-smelting
+   |--x0.2 Tin ore purchased_from_ge
+   |--x0.2 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 7, 'xp': 3.74}}
+
+Tree ID: 888600167984350431 --------
+x1 Bronze sq shield bronze-anvil-smithing
+|--x2 Bronze bar furnace-bar-smelting
+   |--x2 Tin ore purchased_from_ge
+   |--x2 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 8, 'xp': 37.4}}
+
+Tree ID: 7517326904857398688 --------
+x1 Bronze warhammer bronze-anvil-smithing
+|--x3 Bronze bar furnace-bar-smelting
+   |--x3 Tin ore purchased_from_ge
+   |--x3 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 9, 'xp': 56.1}}
+
+Tree ID: 1966864039016144053 --------
+x1 Bronze battleaxe bronze-anvil-smithing
+|--x3 Bronze bar furnace-bar-smelting
+   |--x3 Tin ore purchased_from_ge
+   |--x3 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 10, 'xp': 56.1}}
+
+Tree ID: 1168585721653109787 --------
+x1 Bronze chainbody bronze-anvil-smithing
+|--x3 Bronze bar furnace-bar-smelting
+   |--x3 Tin ore purchased_from_ge
+   |--x3 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 11, 'xp': 56.1}}
+
+Tree ID: 2378242042650479125 --------
+x1 Bronze kiteshield bronze-anvil-smithing
+|--x3 Bronze bar furnace-bar-smelting
+   |--x3 Tin ore purchased_from_ge
+   |--x3 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 12, 'xp': 56.1}}
+
+Tree ID: 684195542950773069 --------
+x1 Bronze claws bronze-anvil-smithing
+|--x2 Bronze bar furnace-bar-smelting
+   |--x2 Tin ore purchased_from_ge
+   |--x2 Copper ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 13, 'xp': 37.4}}
+
+Tree ID: 5932296318202061586 --------
+x1 Bronze 2h sword bronze-anvil-smithing
+|--x3 Bronze bar furnace-bar-smelting
+   |--x3 Tin ore purchased_from_ge
+   |--x3 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 14, 'xp': 56.1}}
+
+Tree ID: 6497360870557984936 --------
+x1 Bronze platelegs bronze-anvil-smithing
+|--x3 Bronze bar furnace-bar-smelting
+   |--x3 Tin ore purchased_from_ge
+   |--x3 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 16, 'xp': 56.1}}
+
+Tree ID: 2209721288082686115 --------
+x1 Bronze plateskirt bronze-anvil-smithing
+|--x3 Bronze bar furnace-bar-smelting
+   |--x3 Tin ore purchased_from_ge
+   |--x3 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 16, 'xp': 56.1}}
+
+Tree ID: 3764768481394503560 --------
+x1 Bronze platebody bronze-anvil-smithing
+|--x5 Bronze bar furnace-bar-smelting
+   |--x5 Tin ore purchased_from_ge
+   |--x5 Copper ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 18, 'xp': 93.5}}
+
+Tree ID: 7264751211441619016 --------
+x1 Iron dagger iron-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 15, 'xp': 37.5}}
+
+Tree ID: 2941950683790403671 --------
+x1 Iron axe iron-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 16, 'xp': 37.5}}
+
+Tree ID: 8810603115549657799 --------
+x1 Iron mace iron-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 17, 'xp': 37.5}}
+
+Tree ID: 116955229252856193 --------
+x1 Iron spit iron-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 17, 'xp': 37.5}}
+
+Tree ID: 2070207716781678346 --------
+x1 Iron med helm iron-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 18, 'xp': 37.5}}
+
+Tree ID: 6877999244927265529 --------
+x1 Iron bolts (unf) iron-anvil-smithing
+|--x0.1 Iron bar furnace-bar-smelting
+   |--x0.2 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 18, 'xp': 3.75}}
+
+Tree ID: 4921200051305035426 --------
+x1 Iron sword iron-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 19, 'xp': 37.5}}
+
+Tree ID: 3304792631521841134 --------
+x1 Iron dart tip iron-anvil-smithing
+|--x0.1 Iron bar furnace-bar-smelting
+   |--x0.2 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 19, 'xp': 3.75}}
+
+Tree ID: 3395579910618519970 --------
+x1 Iron nails iron-anvil-smithing
+|--x0.0667 Iron bar furnace-bar-smelting
+   |--x0.1334 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 19, 'xp': 2.50045}}
+
+Tree ID: 5502514819812703829 --------
+x1 Iron arrowtips iron-anvil-smithing
+|--x0.06667 Iron bar furnace-bar-smelting
+   |--x0.13334 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 20, 'xp': 2.500075}}
+
+Tree ID: 701428364859121042 --------
+x1 Iron scimitar iron-anvil-smithing
+|--x2 Iron bar furnace-bar-smelting
+   |--x4 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 20, 'xp': 75.0}}
+
+Tree ID: 6462999319716833647 --------
+x1 Iron spear iron-barbarian-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+|--x1 Oak logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 20, 'xp': 62.5}}
+
+Tree ID: 4861830952249057319 --------
+x1 Iron hasta iron-barbarian-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+|--x1 Oak logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 20, 'xp': 62.5}}
+
+Tree ID: 2267766642903463408 --------
+x1 Iron javelin heads iron-anvil-smithing
+|--x0.2 Iron bar furnace-bar-smelting
+   |--x0.4 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 21, 'xp': 7.5}}
+
+Tree ID: 6863362422900342144 --------
+x1 Iron longsword iron-anvil-smithing
+|--x2 Iron bar furnace-bar-smelting
+   |--x4 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 21, 'xp': 75.0}}
+
+Tree ID: 675036788023213146 --------
+x1 Iron full helm iron-anvil-smithing
+|--x2 Iron bar furnace-bar-smelting
+   |--x4 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 22, 'xp': 75.0}}
+
+Tree ID: 5503518582095272733 --------
+x1 Iron knife iron-anvil-smithing
+|--x0.2 Iron bar furnace-bar-smelting
+   |--x0.4 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 22, 'xp': 7.5}}
+
+Tree ID: 4483353871188730519 --------
+x1 Iron limbs iron-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 23, 'xp': 37.5}}
+
+Tree ID: 7877875616782336177 --------
+x1 Iron sq shield iron-anvil-smithing
+|--x2 Iron bar furnace-bar-smelting
+   |--x4 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 23, 'xp': 75.0}}
+
+Tree ID: 6586814138571997871 --------
+x1 Iron warhammer iron-anvil-smithing
+|--x3 Iron bar furnace-bar-smelting
+   |--x6 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 24, 'xp': 112.5}}
+
+Tree ID: 1762500642652063250 --------
+x1 Iron battleaxe iron-anvil-smithing
+|--x3 Iron bar furnace-bar-smelting
+   |--x6 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 25, 'xp': 112.5}}
+
+Tree ID: 6365661474792489866 --------
+x1 Oil lantern frame iron-anvil-smithing
+|--x1 Iron bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 26, 'xp': 37.5}}
+
+Tree ID: 6656038458502809427 --------
+x1 Iron chainbody iron-anvil-smithing
+|--x3 Iron bar furnace-bar-smelting
+   |--x6 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 26, 'xp': 112.5}}
+
+Tree ID: 3702642592760134915 --------
+x1 Iron kiteshield iron-anvil-smithing
+|--x3 Iron bar furnace-bar-smelting
+   |--x6 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 27, 'xp': 112.5}}
+
+Tree ID: 6777358876149259304 --------
+x1 Iron claws iron-anvil-smithing
+|--x2 Iron bar furnace-bar-smelting
+   |--x4 Iron ore purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 28, 'xp': 75.0}}
+
+Tree ID: 3882346301295045851 --------
+x1 Iron 2h sword iron-anvil-smithing
+|--x3 Iron bar furnace-bar-smelting
+   |--x6 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 29, 'xp': 112.5}}
+
+Tree ID: 8919827955940584690 --------
+x1 Iron platelegs iron-anvil-smithing
+|--x3 Iron bar furnace-bar-smelting
+   |--x6 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 31, 'xp': 112.5}}
+
+Tree ID: 4867593160805637275 --------
+x1 Iron plateskirt iron-anvil-smithing
+|--x3 Iron bar furnace-bar-smelting
+   |--x6 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 31, 'xp': 112.5}}
+
+Tree ID: 774574638611315586 --------
+x1 Iron platebody iron-anvil-smithing
+|--x5 Iron bar furnace-bar-smelting
+   |--x10 Iron ore purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 33, 'xp': 187.5}}
+
+Tree ID: 3457263282659530993 --------
+x1 Steel dagger steel-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 30, 'xp': 55.0}}
+
+Tree ID: 7488264354422235135 --------
+x1 Steel axe steel-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 31, 'xp': 55.0}}
+
+Tree ID: 4026695674739985853 --------
+x1 Steel mace steel-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 32, 'xp': 55.0}}
+
+Tree ID: 4129582945951168883 --------
+x1 Steel med helm steel-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 33, 'xp': 55.0}}
+
+Tree ID: 5300025171778477509 --------
+x1 Steel bolts (unf) steel-anvil-smithing
+|--x0.1 Steel bar furnace-bar-smelting
+   |--x0.1 Iron ore purchased_from_ge
+   |--x0.2 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 33, 'xp': 5.5}}
+
+Tree ID: 3116965098607849416 --------
+x1 Steel sword steel-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 34, 'xp': 55.0}}
+
+Tree ID: 869608138536794049 --------
+x1 Steel dart tip steel-anvil-smithing
+|--x0.1 Steel bar furnace-bar-smelting
+   |--x0.1 Iron ore purchased_from_ge
+   |--x0.2 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 34, 'xp': 5.5}}
+
+Tree ID: 8329385824488168402 --------
+x1 Steel nails steel-anvil-smithing
+|--x0.0667 Steel bar furnace-bar-smelting
+   |--x0.0667 Iron ore purchased_from_ge
+   |--x0.1334 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 34, 'xp': 3.66725}}
+
+Tree ID: 6976150893352312918 --------
+x1 Steel arrowtips steel-anvil-smithing
+|--x0.0667 Steel bar furnace-bar-smelting
+   |--x0.0667 Iron ore purchased_from_ge
+   |--x0.1334 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 35, 'xp': 3.66725}}
+
+Tree ID: 8509111686623733652 --------
+x1 Cannonball steel-anvil-smithing
+|--x0.25 Steel bar furnace-bar-smelting
+   |--x0.25 Iron ore purchased_from_ge
+   |--x0.5 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 35, 'xp': 10.75}}
+
+Tree ID: 667625309896040313 --------
+x1 Steel scimitar steel-anvil-smithing
+|--x2 Steel bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+   |--x4 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 35, 'xp': 110.0}}
+
+Tree ID: 4115665912836987570 --------
+x1 Steel spear steel-barbarian-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+|--x1 Willow logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 35, 'xp': 92.5}}
+
+Tree ID: 2576017636353637615 --------
+x1 Steel hasta steel-barbarian-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+|--x1 Willow logs purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 35, 'xp': 92.5}}
+
+Tree ID: 7643441140749599337 --------
+x1 Steel limbs steel-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 36, 'xp': 55.0}}
+
+Tree ID: 4409611847272819447 --------
+x1 Steel javelin heads steel-anvil-smithing
+|--x0.2 Steel bar furnace-bar-smelting
+   |--x0.2 Iron ore purchased_from_ge
+   |--x0.4 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 36, 'xp': 11.0}}
+
+Tree ID: 5676235467419306757 --------
+x1 Steel longsword steel-anvil-smithing
+|--x2 Steel bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+   |--x4 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 36, 'xp': 110.0}}
+
+Tree ID: 3092366011498920437 --------
+x1 Steel studs steel-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 36, 'xp': 55.0}}
+
+Tree ID: 4967625019720899001 --------
+x1 Steel full helm steel-anvil-smithing
+|--x2 Steel bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+   |--x4 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 37, 'xp': 110.0}}
+
+Tree ID: 1170214522046222631 --------
+x1 Steel knife steel-anvil-smithing
+|--x0.2 Steel bar furnace-bar-smelting
+   |--x0.2 Iron ore purchased_from_ge
+   |--x0.4 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 37, 'xp': 11.0}}
+
+Tree ID: 7417363449137562214 --------
+x1 Steel sq shield steel-anvil-smithing
+|--x2 Steel bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+   |--x4 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 38, 'xp': 110.0}}
+
+Tree ID: 5955754999827578566 --------
+x1 Steel warhammer steel-anvil-smithing
+|--x3 Steel bar furnace-bar-smelting
+   |--x3 Iron ore purchased_from_ge
+   |--x6 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 39, 'xp': 165.0}}
+
+Tree ID: 7511550734993791814 --------
+x1 Steel battleaxe steel-anvil-smithing
+|--x3 Steel bar furnace-bar-smelting
+   |--x3 Iron ore purchased_from_ge
+   |--x6 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 40, 'xp': 165.0}}
+
+Tree ID: 705230452285583444 --------
+x1 Steel chainbody steel-anvil-smithing
+|--x3 Steel bar furnace-bar-smelting
+   |--x3 Iron ore purchased_from_ge
+   |--x6 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 41, 'xp': 165.0}}
+
+Tree ID: 4137435415293833462 --------
+x1 Steel kiteshield steel-anvil-smithing
+|--x3 Steel bar furnace-bar-smelting
+   |--x3 Iron ore purchased_from_ge
+   |--x6 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 42, 'xp': 165.0}}
+
+Tree ID: 9221302231586675148 --------
+x1 Steel claws steel-anvil-smithing
+|--x2 Steel bar furnace-bar-smelting
+   |--x2 Iron ore purchased_from_ge
+   |--x4 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 43, 'xp': 110.0}}
+
+Tree ID: 2617696254768095741 --------
+x1 Steel 2h sword steel-anvil-smithing
+|--x3 Steel bar furnace-bar-smelting
+   |--x3 Iron ore purchased_from_ge
+   |--x6 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 44, 'xp': 165.0}}
+
+Tree ID: 6432286695373616144 --------
+x1 Steel platelegs steel-anvil-smithing
+|--x3 Steel bar furnace-bar-smelting
+   |--x3 Iron ore purchased_from_ge
+   |--x6 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 46, 'xp': 165.0}}
+
+Tree ID: 6350935138648420156 --------
+x1 Steel plateskirt steel-anvil-smithing
+|--x3 Steel bar furnace-bar-smelting
+   |--x3 Iron ore purchased_from_ge
+   |--x6 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 46, 'xp': 165.0}}
+
+Tree ID: 7559257418629232440 --------
+x1 Steel platebody steel-anvil-smithing
+|--x5 Steel bar furnace-bar-smelting
+   |--x5 Iron ore purchased_from_ge
+   |--x10 Coal purchased_from_ge
+Members: False
+Skills: {'smithing': {'lvl': 48, 'xp': 275.0}}
+
+Tree ID: 884287300485683033 --------
+x1 Bullseye lantern (unf) steel-anvil-smithing
+|--x1 Steel bar furnace-bar-smelting
+   |--x1 Iron ore purchased_from_ge
+   |--x2 Coal purchased_from_ge
+Members: True
+Skills: {'smithing': {'lvl': 49, 'xp': 55.0}}
+
+Tree ID: 5761590304498283664 --------
+x1 Spiky vambraces attach-item
+|--x1 Leather vambraces needle-and-thread
+   |--x1 Leather tanner-npc
+      |--x1 Cowhide purchased_from_ge
+|--x1 Kebbit claws purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 32, 'xp': 28}}
+
+Tree ID: 3620245127297443087 --------
+x1 Hard leather shield needle-and-thread
+|--x2 Oak shield purchased_from_ge
+|--x2 Hard leather tanner-npc
+   |--x2 Cowhide purchased_from_ge
+|--x15 Bronze nails bronze-anvil-smithing
+   |--x1.0005 Bronze bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 70}, 'smithing': {'lvl': 4, 'xp': 12.501000000000001}}
+
+Tree ID: 3561216317229301966 --------
+x1 Hard leather shield needle-and-thread
+|--x2 Oak shield purchased_from_ge
+|--x2 Hard leather purchased_from_ge
+|--x15 Bronze nails bronze-anvil-smithing
+   |--x1.0005 Bronze bar furnace-bar-smelting
+      |--x1.0005 Tin ore purchased_from_ge
+      |--x1.0005 Copper ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 70}, 'smithing': {'lvl': 4, 'xp': 18.7041}}
+
+Tree ID: 5130124479437276411 --------
+x1 Studded body attach-item
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+|--x1 Steel studs steel-anvil-smithing
+   |--x1 Steel bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 40}, 'smithing': {'lvl': 36, 'xp': 37.5}}
+
+Tree ID: 1847764712569153044 --------
+x1 Studded body attach-item
+|--x1 Leather purchased_from_ge
+|--x1 Steel studs steel-anvil-smithing
+   |--x1 Steel bar furnace-bar-smelting
+      |--x1 Iron ore purchased_from_ge
+      |--x2 Coal purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 40}, 'smithing': {'lvl': 36, 'xp': 55.0}}
+
+Tree ID: 7820481294207603920 --------
+x1 Studded chaps attach-item
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+|--x1 Steel studs steel-anvil-smithing
+   |--x1 Steel bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 44, 'xp': 42}, 'smithing': {'lvl': 36, 'xp': 37.5}}
+
+Tree ID: 3416056546018186693 --------
+x1 Studded chaps attach-item
+|--x1 Leather purchased_from_ge
+|--x1 Steel studs steel-anvil-smithing
+   |--x1 Steel bar furnace-bar-smelting
+      |--x1 Iron ore purchased_from_ge
+      |--x2 Coal purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 44, 'xp': 42}, 'smithing': {'lvl': 36, 'xp': 55.0}}
+
+Tree ID: 965304262202575011 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather tanner-npc
+   |--x2 Green dragonhide purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails steel-anvil-smithing
+   |--x1.0005 Steel bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 62, 'xp': 124}, 'smithing': {'lvl': 34, 'xp': 37.5}}
+
+Tree ID: 2008753622589792924 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather tan-leather-spell-fire-staff
+   |--x2 Green dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails steel-anvil-smithing
+   |--x1.0005 Steel bar purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 286}, 'smithing': {'lvl': 34, 'xp': 37.5}}
+
+Tree ID: 2486920849496138928 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails steel-anvil-smithing
+   |--x1.0005 Steel bar furnace-bar-smelting
+      |--x1.0005 Iron ore purchased_from_ge
+      |--x2.001 Coal purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 62, 'xp': 124}, 'smithing': {'lvl': 34, 'xp': 55.00875}}
+
+Tree ID: 7080759235339067784 --------
+x1 Opal ring silver-bar-furnace
+|--x1 Opal chisel-gem-cut
+   |--x1 Uncut opal purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 1, 'xp': 25}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 2596022410457147685 --------
+x1 Opal necklace silver-bar-furnace
+|--x1 Opal chisel-gem-cut
+   |--x1 Uncut opal purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 50}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 3223218171735405427 --------
+x1 Opal bracelet silver-bar-furnace
+|--x1 Opal chisel-gem-cut
+   |--x1 Uncut opal purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 22, 'xp': 60}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 7794769349711447605 --------
+x1 Opal amulet silver-bar-furnace
+|--x1 Opal chisel-gem-cut
+   |--x1 Uncut opal purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 27, 'xp': 70}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 4172645114383306337 --------
+x1 Ring of returning(5) lvl-2-enchant-air-staff
+|--x1 Emerald amulet gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 31, 'xp': 137.5}}
+
+Tree ID: 1128023717534217143 --------
+x1 Ring of returning(5) lvl-2-enchant-air-staff
+|--x1 Emerald amulet gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 31, 'xp': 70}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2750928056422038210 --------
+x1 Jade necklace silver-bar-furnace
+|--x1 Jade chisel-gem-cut
+   |--x1 Uncut jade purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 25, 'xp': 74}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 5938610370525538705 --------
+x1 Jade bracelet silver-bar-furnace
+|--x1 Jade chisel-gem-cut
+   |--x1 Uncut jade purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 29, 'xp': 80}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 8210715819186078394 --------
+x1 Jade amulet silver-bar-furnace
+|--x1 Jade chisel-gem-cut
+   |--x1 Uncut jade purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 34, 'xp': 90}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 9202122439009667609 --------
+x1 Topaz ring silver-bar-furnace
+|--x1 Red topaz chisel-gem-cut
+   |--x1 Uncut red topaz purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 16, 'xp': 60}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 1190378644749346920 --------
+x1 Topaz necklace silver-bar-furnace
+|--x1 Red topaz chisel-gem-cut
+   |--x1 Uncut red topaz purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 32, 'xp': 95}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 3364295796391357141 --------
+x1 Topaz bracelet silver-bar-furnace
+|--x1 Red topaz chisel-gem-cut
+   |--x1 Uncut red topaz purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 38, 'xp': 100}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 7329229613271509453 --------
+x1 Topaz amulet silver-bar-furnace
+|--x1 Red topaz chisel-gem-cut
+   |--x1 Uncut red topaz purchased_from_ge
+|--x1 Silver bar furnace-bar-smelting
+   |--x1 Silver ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 45, 'xp': 105}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 8982389270803417413 --------
+x1 Sapphire ring gold-bar-furnace
+|--x1 Sapphire chisel-gem-cut
+   |--x1 Uncut sapphire purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 20, 'xp': 90}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8742681556119059951 --------
+x1 Sapphire necklace gold-bar-furnace
+|--x1 Sapphire chisel-gem-cut
+   |--x1 Uncut sapphire purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 22, 'xp': 105}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3898266760442174986 --------
+x1 Sapphire bracelet gold-bar-furnace
+|--x1 Sapphire chisel-gem-cut
+   |--x1 Uncut sapphire purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 23, 'xp': 110}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1904412514981915645 --------
+x1 Sapphire amulet gold-bar-furnace
+|--x1 Sapphire chisel-gem-cut
+   |--x1 Uncut sapphire purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 24, 'xp': 115}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3310380198330642448 --------
+x1 Emerald ring gold-bar-furnace
+|--x1 Emerald chisel-gem-cut
+   |--x1 Uncut emerald purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 27, 'xp': 122.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1693551115836994277 --------
+x1 Emerald necklace gold-bar-furnace
+|--x1 Emerald chisel-gem-cut
+   |--x1 Uncut emerald purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 29, 'xp': 127.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7264114704629125829 --------
+x1 Emerald bracelet gold-bar-furnace
+|--x1 Emerald chisel-gem-cut
+   |--x1 Uncut emerald purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 30, 'xp': 132.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5145197881885398009 --------
+x1 Emerald amulet gold-bar-furnace
+|--x1 Emerald chisel-gem-cut
+   |--x1 Uncut emerald purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 31, 'xp': 137.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4774577254864058037 --------
+x1 Ruby ring gold-bar-furnace
+|--x1 Ruby chisel-gem-cut
+   |--x1 Uncut ruby purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 34, 'xp': 155}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8105184527222007537 --------
+x1 Ruby necklace gold-bar-furnace
+|--x1 Ruby chisel-gem-cut
+   |--x1 Uncut ruby purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 40, 'xp': 160}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1007384383958249941 --------
+x1 Ruby bracelet gold-bar-furnace
+|--x1 Ruby chisel-gem-cut
+   |--x1 Uncut ruby purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 42, 'xp': 165}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3282374019414534345 --------
+x1 Ruby amulet gold-bar-furnace
+|--x1 Ruby chisel-gem-cut
+   |--x1 Uncut ruby purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 50, 'xp': 170}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5689667887431136047 --------
+x1 Diamond ring gold-bar-furnace
+|--x1 Diamond chisel-gem-cut
+   |--x1 Uncut diamond purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 43, 'xp': 192.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5006430851028987819 --------
+x1 Diamond necklace gold-bar-furnace
+|--x1 Diamond chisel-gem-cut
+   |--x1 Uncut diamond purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 56, 'xp': 197.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6031574700682789674 --------
+x1 Diamond bracelet gold-bar-furnace
+|--x1 Diamond chisel-gem-cut
+   |--x1 Uncut diamond purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 58, 'xp': 202.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 141988536401996884 --------
+x1 Diamond amulet gold-bar-furnace
+|--x1 Diamond chisel-gem-cut
+   |--x1 Uncut diamond purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: False
+Skills: {'crafting': {'lvl': 70, 'xp': 207.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3822144666307204629 --------
+x1 Dragonstone ring gold-bar-furnace
+|--x1 Dragonstone chisel-gem-cut
+   |--x1 Uncut dragonstone purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 55, 'xp': 237.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1378716184292270452 --------
+x1 Dragon necklace gold-bar-furnace
+|--x1 Dragonstone chisel-gem-cut
+   |--x1 Uncut dragonstone purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 72, 'xp': 242.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2641544120729064286 --------
+x1 Dragonstone bracelet gold-bar-furnace
+|--x1 Dragonstone chisel-gem-cut
+   |--x1 Uncut dragonstone purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 74, 'xp': 247.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4525174919730569075 --------
+x1 Dragonstone amulet gold-bar-furnace
+|--x1 Dragonstone chisel-gem-cut
+   |--x1 Uncut dragonstone purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 80, 'xp': 287.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4849061994129714637 --------
+x1 Onyx ring gold-bar-furnace
+|--x1 Onyx chisel-gem-cut
+   |--x1 Uncut onyx purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 67, 'xp': 282.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6480078894400623416 --------
+x1 Onyx necklace gold-bar-furnace
+|--x1 Onyx chisel-gem-cut
+   |--x1 Uncut onyx purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 82, 'xp': 287.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8078830391440950640 --------
+x1 Onyx bracelet gold-bar-furnace
+|--x1 Onyx chisel-gem-cut
+   |--x1 Uncut onyx purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 84, 'xp': 292.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1737363083348180231 --------
+x1 Onyx amulet gold-bar-furnace
+|--x1 Onyx chisel-gem-cut
+   |--x1 Uncut onyx purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 90, 'xp': 332.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7946164759458898163 --------
+x1 Zenyte ring gold-bar-furnace
+|--x1 Zenyte chisel-gem-cut
+   |--x1 Uncut zenyte purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 89, 'xp': 350}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8496634410530859872 --------
+x1 Zenyte necklace gold-bar-furnace
+|--x1 Zenyte chisel-gem-cut
+   |--x1 Uncut zenyte purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 92, 'xp': 365}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 865431141955117070 --------
+x1 Zenyte bracelet gold-bar-furnace
+|--x1 Zenyte chisel-gem-cut
+   |--x1 Uncut zenyte purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 95, 'xp': 380}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7902059935058960547 --------
+x1 Zenyte amulet gold-bar-furnace
+|--x1 Zenyte chisel-gem-cut
+   |--x1 Uncut zenyte purchased_from_ge
+|--x1 Gold bar furnace-bar-smelting
+   |--x1 Gold ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 98, 'xp': 400}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2079285739048288683 --------
+x1 Ring of recoil lvl-1-enchant-water-staff
+|--x1 Sapphire ring gold-bar-furnace
+   |--x1 Sapphire chisel-gem-cut
+      |--x1 Uncut sapphire purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 20, 'xp': 90}}
+
+Tree ID: 1907267069559661662 --------
+x1 Ring of recoil lvl-1-enchant-water-staff
+|--x1 Sapphire ring gold-bar-furnace
+   |--x1 Sapphire purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 20, 'xp': 40}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5358954045735101022 --------
+x1 Games necklace(8) lvl-1-enchant-water-staff
+|--x1 Sapphire necklace gold-bar-furnace
+   |--x1 Sapphire chisel-gem-cut
+      |--x1 Uncut sapphire purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 22, 'xp': 105}}
+
+Tree ID: 7098919274395745717 --------
+x1 Games necklace(8) lvl-1-enchant-water-staff
+|--x1 Sapphire necklace gold-bar-furnace
+   |--x1 Sapphire purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 22, 'xp': 55}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8550630018210562537 --------
+x1 Bracelet of clay lvl-1-enchant-water-staff
+|--x1 Sapphire bracelet gold-bar-furnace
+   |--x1 Sapphire chisel-gem-cut
+      |--x1 Uncut sapphire purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 23, 'xp': 110}}
+
+Tree ID: 7057579747032483294 --------
+x1 Bracelet of clay lvl-1-enchant-water-staff
+|--x1 Sapphire bracelet gold-bar-furnace
+   |--x1 Sapphire purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 23, 'xp': 60}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1938263120943610640 --------
+x1 Amulet of magic lvl-1-enchant-water-staff
+|--x1 Sapphire amulet gold-bar-furnace
+   |--x1 Sapphire chisel-gem-cut
+      |--x1 Uncut sapphire purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 24, 'xp': 115}}
+
+Tree ID: 4261944283228154747 --------
+x1 Amulet of magic lvl-1-enchant-water-staff
+|--x1 Sapphire amulet gold-bar-furnace
+   |--x1 Sapphire purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 24, 'xp': 65}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3260229037660482160 --------
+x1 Ring of pursuit lvl-1-enchant-water-staff
+|--x1 Opal ring silver-bar-furnace
+   |--x1 Opal chisel-gem-cut
+      |--x1 Uncut opal purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 1, 'xp': 25}}
+
+Tree ID: 5364563179012811217 --------
+x1 Ring of pursuit lvl-1-enchant-water-staff
+|--x1 Opal ring silver-bar-furnace
+   |--x1 Opal purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 1, 'xp': 10}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 7675603911356846089 --------
+x1 Expeditious bracelet lvl-1-enchant-water-staff
+|--x1 Opal bracelet silver-bar-furnace
+   |--x1 Opal chisel-gem-cut
+      |--x1 Uncut opal purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 22, 'xp': 60}}
+
+Tree ID: 1595231253594812932 --------
+x1 Expeditious bracelet lvl-1-enchant-water-staff
+|--x1 Opal bracelet silver-bar-furnace
+   |--x1 Opal purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 22, 'xp': 45}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 734104424465400740 --------
+x1 Dodgy necklace lvl-1-enchant-water-staff
+|--x1 Opal necklace silver-bar-furnace
+   |--x1 Opal chisel-gem-cut
+      |--x1 Uncut opal purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 16, 'xp': 50}}
+
+Tree ID: 4601702680879886003 --------
+x1 Dodgy necklace lvl-1-enchant-water-staff
+|--x1 Opal necklace silver-bar-furnace
+   |--x1 Opal purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 16, 'xp': 35}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 3097045510000338256 --------
+x1 Amulet of bounty lvl-1-enchant-water-staff
+|--x1 Opal amulet silver-bar-furnace
+   |--x1 Opal chisel-gem-cut
+      |--x1 Uncut opal purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 27, 'xp': 70}}
+
+Tree ID: 6883078335630489332 --------
+x1 Amulet of bounty lvl-1-enchant-water-staff
+|--x1 Opal amulet silver-bar-furnace
+   |--x1 Opal purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 27, 'xp': 55}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 853365276114008158 --------
+x1 Ring of dueling(8) lvl-2-enchant-air-staff
+|--x1 Emerald ring gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 27, 'xp': 122.5}}
+
+Tree ID: 4062451205773593532 --------
+x1 Ring of dueling(8) lvl-2-enchant-air-staff
+|--x1 Emerald ring gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 27, 'xp': 55}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6730852957120487250 --------
+x1 Binding necklace lvl-2-enchant-air-staff
+|--x1 Emerald necklace gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 29, 'xp': 127.5}}
+
+Tree ID: 811669457853682537 --------
+x1 Binding necklace lvl-2-enchant-air-staff
+|--x1 Emerald necklace gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 29, 'xp': 60}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 9014943368641572001 --------
+x1 Castle wars bracelet(3) lvl-2-enchant-air-staff
+|--x1 Emerald bracelet gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 30, 'xp': 132.5}}
+
+Tree ID: 2214015364860472247 --------
+x1 Castle wars bracelet(3) lvl-2-enchant-air-staff
+|--x1 Emerald bracelet gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 30, 'xp': 65}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7660278803840225970 --------
+x1 Amulet of defence lvl-2-enchant-air-staff
+|--x1 Emerald amulet gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 31, 'xp': 137.5}}
+
+Tree ID: 9029663271684370411 --------
+x1 Amulet of defence lvl-2-enchant-air-staff
+|--x1 Emerald amulet gold-bar-furnace
+   |--x1 Emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 31, 'xp': 70}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4767207061415760840 --------
+x1 Necklace of passage(5) lvl-2-enchant-air-staff
+|--x1 Jade necklace silver-bar-furnace
+   |--x1 Jade chisel-gem-cut
+      |--x1 Uncut jade purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 25, 'xp': 74}}
+
+Tree ID: 917836030933318257 --------
+x1 Necklace of passage(5) lvl-2-enchant-air-staff
+|--x1 Jade necklace silver-bar-furnace
+   |--x1 Jade purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 25, 'xp': 54}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 4499426233083006027 --------
+x1 Flamtaer bracelet lvl-2-enchant-air-staff
+|--x1 Jade bracelet silver-bar-furnace
+   |--x1 Jade chisel-gem-cut
+      |--x1 Uncut jade purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 29, 'xp': 80}}
+
+Tree ID: 7166274190460799380 --------
+x1 Flamtaer bracelet lvl-2-enchant-air-staff
+|--x1 Jade bracelet silver-bar-furnace
+   |--x1 Jade purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 29, 'xp': 60}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 20532662379422146 --------
+x1 Amulet of chemistry lvl-2-enchant-air-staff
+|--x1 Jade amulet silver-bar-furnace
+   |--x1 Jade chisel-gem-cut
+      |--x1 Uncut jade purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 34, 'xp': 90}}
+
+Tree ID: 7309310393169296161 --------
+x1 Amulet of chemistry lvl-2-enchant-air-staff
+|--x1 Jade amulet silver-bar-furnace
+   |--x1 Jade purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 34, 'xp': 70}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 3890875057047931355 --------
+x1 Ring of forging lvl-3-enchant-fire-staff
+|--x1 Ruby ring gold-bar-furnace
+   |--x1 Ruby chisel-gem-cut
+      |--x1 Uncut ruby purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 34, 'xp': 155}}
+
+Tree ID: 8277864922121769598 --------
+x1 Ring of forging lvl-3-enchant-fire-staff
+|--x1 Ruby ring gold-bar-furnace
+   |--x1 Ruby purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 34, 'xp': 70}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2410056760991634936 --------
+x1 Inoculation bracelet lvl-3-enchant-fire-staff
+|--x1 Ruby bracelet gold-bar-furnace
+   |--x1 Ruby chisel-gem-cut
+      |--x1 Uncut ruby purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 42, 'xp': 165}}
+
+Tree ID: 1671043294796134820 --------
+x1 Inoculation bracelet lvl-3-enchant-fire-staff
+|--x1 Ruby bracelet gold-bar-furnace
+   |--x1 Ruby purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 42, 'xp': 80}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2485925768765984395 --------
+x1 Amulet of strength lvl-3-enchant-fire-staff
+|--x1 Ruby amulet gold-bar-furnace
+   |--x1 Ruby chisel-gem-cut
+      |--x1 Uncut ruby purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 50, 'xp': 170}}
+
+Tree ID: 8084989140896805002 --------
+x1 Amulet of strength lvl-3-enchant-fire-staff
+|--x1 Ruby amulet gold-bar-furnace
+   |--x1 Ruby purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 50, 'xp': 85}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8102220762376099455 --------
+x1 Digsite pendant lvl-3-enchant-fire-staff
+|--x1 Ruby necklace gold-bar-furnace
+   |--x1 Ruby chisel-gem-cut
+      |--x1 Uncut ruby purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 40, 'xp': 160}}
+
+Tree ID: 3785288858657775875 --------
+x1 Digsite pendant lvl-3-enchant-fire-staff
+|--x1 Ruby necklace gold-bar-furnace
+   |--x1 Ruby purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 40, 'xp': 75}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3167333811972967942 --------
+x1 Efaritay's aid lvl-3-enchant-fire-staff
+|--x1 Topaz ring silver-bar-furnace
+   |--x1 Red topaz chisel-gem-cut
+      |--x1 Uncut red topaz purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 16, 'xp': 60}}
+
+Tree ID: 1505776642084052621 --------
+x1 Efaritay's aid lvl-3-enchant-fire-staff
+|--x1 Topaz ring silver-bar-furnace
+   |--x1 Red topaz purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 16, 'xp': 35}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 8371326753047474654 --------
+x1 Bracelet of slaughter lvl-3-enchant-fire-staff
+|--x1 Topaz bracelet silver-bar-furnace
+   |--x1 Red topaz chisel-gem-cut
+      |--x1 Uncut red topaz purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 38, 'xp': 100}}
+
+Tree ID: 2217802784305062872 --------
+x1 Bracelet of slaughter lvl-3-enchant-fire-staff
+|--x1 Topaz bracelet silver-bar-furnace
+   |--x1 Red topaz purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 38, 'xp': 75}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 7727947469017135155 --------
+x1 Necklace of faith lvl-3-enchant-fire-staff
+|--x1 Topaz necklace silver-bar-furnace
+   |--x1 Red topaz chisel-gem-cut
+      |--x1 Uncut red topaz purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 32, 'xp': 95}}
+
+Tree ID: 7260094609148495783 --------
+x1 Necklace of faith lvl-3-enchant-fire-staff
+|--x1 Topaz necklace silver-bar-furnace
+   |--x1 Red topaz purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 32, 'xp': 70}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 9164228239114902435 --------
+x1 Burning amulet lvl-3-enchant-fire-staff
+|--x1 Topaz amulet silver-bar-furnace
+   |--x1 Red topaz chisel-gem-cut
+      |--x1 Uncut red topaz purchased_from_ge
+   |--x1 Silver bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 45, 'xp': 105}}
+
+Tree ID: 7358355920529740291 --------
+x1 Burning amulet lvl-3-enchant-fire-staff
+|--x1 Topaz amulet silver-bar-furnace
+   |--x1 Red topaz purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 45, 'xp': 80}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 1600810623402737751 --------
+x1 Ring of life lvl-4-enchant-earth-staff
+|--x1 Diamond ring gold-bar-furnace
+   |--x1 Diamond chisel-gem-cut
+      |--x1 Uncut diamond purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 43, 'xp': 192.5}}
+
+Tree ID: 5095534182207296680 --------
+x1 Ring of life lvl-4-enchant-earth-staff
+|--x1 Diamond ring gold-bar-furnace
+   |--x1 Diamond purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 43, 'xp': 85}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7104738592257347478 --------
+x1 Phoenix necklace lvl-4-enchant-earth-staff
+|--x1 Diamond necklace gold-bar-furnace
+   |--x1 Diamond chisel-gem-cut
+      |--x1 Uncut diamond purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 56, 'xp': 197.5}}
+
+Tree ID: 8128563929520185011 --------
+x1 Phoenix necklace lvl-4-enchant-earth-staff
+|--x1 Diamond necklace gold-bar-furnace
+   |--x1 Diamond purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 56, 'xp': 90}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6275055295353392893 --------
+x1 Abyssal bracelet lvl-4-enchant-earth-staff
+|--x1 Diamond bracelet gold-bar-furnace
+   |--x1 Diamond chisel-gem-cut
+      |--x1 Uncut diamond purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 58, 'xp': 202.5}}
+
+Tree ID: 8654921616336167836 --------
+x1 Abyssal bracelet lvl-4-enchant-earth-staff
+|--x1 Diamond bracelet gold-bar-furnace
+   |--x1 Diamond purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 58, 'xp': 95}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4413840845425315718 --------
+x1 Amulet of power lvl-4-enchant-earth-staff
+|--x1 Diamond amulet gold-bar-furnace
+   |--x1 Diamond chisel-gem-cut
+      |--x1 Uncut diamond purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 70, 'xp': 207.5}}
+
+Tree ID: 4569157943361853980 --------
+x1 Amulet of power lvl-4-enchant-earth-staff
+|--x1 Diamond amulet gold-bar-furnace
+   |--x1 Diamond purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 70, 'xp': 100}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7031536091587386190 --------
+x1 Ring of wealth lvl-5-enchant-water-staff
+|--x1 Dragonstone ring gold-bar-furnace
+   |--x1 Dragonstone chisel-gem-cut
+      |--x1 Uncut dragonstone purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 55, 'xp': 237.5}}
+
+Tree ID: 8702626445962301490 --------
+x1 Ring of wealth lvl-5-enchant-water-staff
+|--x1 Dragonstone ring gold-bar-furnace
+   |--x1 Dragonstone purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 55, 'xp': 100}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2138331399126751467 --------
+x1 Skills necklace lvl-5-enchant-water-staff
+|--x1 Dragon necklace gold-bar-furnace
+   |--x1 Dragonstone chisel-gem-cut
+      |--x1 Uncut dragonstone purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 72, 'xp': 242.5}}
+
+Tree ID: 4577063763107011162 --------
+x1 Skills necklace lvl-5-enchant-water-staff
+|--x1 Dragon necklace gold-bar-furnace
+   |--x1 Dragonstone purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 72, 'xp': 105}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4471884573625071642 --------
+x1 Combat bracelet lvl-5-enchant-water-staff
+|--x1 Dragonstone bracelet gold-bar-furnace
+   |--x1 Dragonstone chisel-gem-cut
+      |--x1 Uncut dragonstone purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 74, 'xp': 247.5}}
+
+Tree ID: 2740235967063205659 --------
+x1 Combat bracelet lvl-5-enchant-water-staff
+|--x1 Dragonstone bracelet gold-bar-furnace
+   |--x1 Dragonstone purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 74, 'xp': 110}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 725823056008914472 --------
+x1 Amulet of glory lvl-5-enchant-water-staff
+|--x1 Dragonstone amulet gold-bar-furnace
+   |--x1 Dragonstone chisel-gem-cut
+      |--x1 Uncut dragonstone purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 80, 'xp': 287.5}}
+
+Tree ID: 1515348016940042109 --------
+x1 Amulet of glory lvl-5-enchant-water-staff
+|--x1 Dragonstone amulet gold-bar-furnace
+   |--x1 Dragonstone purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 80, 'xp': 150}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8675631127945166091 --------
+x1 Ring of stone lvl-6-enchant-lava-battlestaff
+|--x1 Onyx ring gold-bar-furnace
+   |--x1 Onyx chisel-gem-cut
+      |--x1 Uncut onyx purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 67, 'xp': 282.5}}
+
+Tree ID: 3991363187922144137 --------
+x1 Ring of stone lvl-6-enchant-lava-battlestaff
+|--x1 Onyx ring gold-bar-furnace
+   |--x1 Onyx purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 67, 'xp': 115}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 7601419407046705157 --------
+x1 Berserker necklace lvl-6-enchant-lava-battlestaff
+|--x1 Onyx necklace gold-bar-furnace
+   |--x1 Onyx chisel-gem-cut
+      |--x1 Uncut onyx purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 82, 'xp': 287.5}}
+
+Tree ID: 5286676071863415082 --------
+x1 Berserker necklace lvl-6-enchant-lava-battlestaff
+|--x1 Onyx necklace gold-bar-furnace
+   |--x1 Onyx purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 82, 'xp': 120}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 9114355227126994653 --------
+x1 Regen bracelet lvl-6-enchant-lava-battlestaff
+|--x1 Onyx bracelet gold-bar-furnace
+   |--x1 Onyx chisel-gem-cut
+      |--x1 Uncut onyx purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 84, 'xp': 292.5}}
+
+Tree ID: 8047995068959917267 --------
+x1 Regen bracelet lvl-6-enchant-lava-battlestaff
+|--x1 Onyx bracelet gold-bar-furnace
+   |--x1 Onyx purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 84, 'xp': 125}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8739324137229865005 --------
+x1 Amulet of fury lvl-6-enchant-lava-battlestaff
+|--x1 Onyx amulet gold-bar-furnace
+   |--x1 Onyx chisel-gem-cut
+      |--x1 Uncut onyx purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 90, 'xp': 332.5}}
+
+Tree ID: 4432338135402362625 --------
+x1 Amulet of fury lvl-6-enchant-lava-battlestaff
+|--x1 Onyx amulet gold-bar-furnace
+   |--x1 Onyx purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 90, 'xp': 165}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3044280815487459817 --------
+x1 Ring of suffering lvl-7-enchant
+|--x1 Zenyte ring gold-bar-furnace
+   |--x1 Zenyte chisel-gem-cut
+      |--x1 Uncut zenyte purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 89, 'xp': 350}}
+
+Tree ID: 6854451919812359530 --------
+x1 Ring of suffering lvl-7-enchant
+|--x1 Zenyte ring gold-bar-furnace
+   |--x1 Zenyte purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 89, 'xp': 150}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1429558249190551232 --------
+x1 Necklace of anguish lvl-7-enchant
+|--x1 Zenyte necklace gold-bar-furnace
+   |--x1 Zenyte chisel-gem-cut
+      |--x1 Uncut zenyte purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 92, 'xp': 365}}
+
+Tree ID: 3701534633473120157 --------
+x1 Necklace of anguish lvl-7-enchant
+|--x1 Zenyte necklace gold-bar-furnace
+   |--x1 Zenyte purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 92, 'xp': 165}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 331831862250278265 --------
+x1 Tormented bracelet lvl-7-enchant
+|--x1 Zenyte bracelet gold-bar-furnace
+   |--x1 Zenyte chisel-gem-cut
+      |--x1 Uncut zenyte purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 95, 'xp': 380}}
+
+Tree ID: 4491717509407750361 --------
+x1 Tormented bracelet lvl-7-enchant
+|--x1 Zenyte bracelet gold-bar-furnace
+   |--x1 Zenyte purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 95, 'xp': 180}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5246568498722763912 --------
+x1 Amulet of torture lvl-7-enchant
+|--x1 Zenyte amulet gold-bar-furnace
+   |--x1 Zenyte chisel-gem-cut
+      |--x1 Uncut zenyte purchased_from_ge
+   |--x1 Gold bar purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 98, 'xp': 400}}
+
+Tree ID: 4263634848987484339 --------
+x1 Amulet of torture lvl-7-enchant
+|--x1 Zenyte amulet gold-bar-furnace
+   |--x1 Zenyte purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 98, 'xp': 200}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5351737910426208221 --------
+x1 Hard leather shield needle-and-thread
+|--x2 Oak shield purchased_from_ge
+|--x2 Hard leather tanner-npc
+   |--x2 Cowhide purchased_from_ge
+|--x15 Bronze nails bronze-anvil-smithing
+   |--x1.0005 Bronze bar furnace-bar-smelting
+      |--x1.0005 Tin ore purchased_from_ge
+      |--x1.0005 Copper ore purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 70}, 'smithing': {'lvl': 4, 'xp': 18.7041}}
+
+Tree ID: 6948877076139590592 --------
+x1 Studded body attach-item
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+|--x1 Steel studs steel-anvil-smithing
+   |--x1 Steel bar furnace-bar-smelting
+      |--x1 Iron ore purchased_from_ge
+      |--x2 Coal purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 41, 'xp': 40}, 'smithing': {'lvl': 36, 'xp': 55.0}}
+
+Tree ID: 6678734426414688607 --------
+x1 Studded chaps attach-item
+|--x1 Leather tanner-npc
+   |--x1 Cowhide purchased_from_ge
+|--x1 Steel studs steel-anvil-smithing
+   |--x1 Steel bar furnace-bar-smelting
+      |--x1 Iron ore purchased_from_ge
+      |--x2 Coal purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 44, 'xp': 42}, 'smithing': {'lvl': 36, 'xp': 55.0}}
+
+Tree ID: 1648433413939221711 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather tanner-npc
+   |--x2 Green dragonhide purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails steel-anvil-smithing
+   |--x1.0005 Steel bar furnace-bar-smelting
+      |--x1.0005 Iron ore purchased_from_ge
+      |--x2.001 Coal purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 62, 'xp': 124}, 'smithing': {'lvl': 34, 'xp': 55.00875}}
+
+Tree ID: 7407560937439292451 --------
+x1 Green d'hide shield needle-and-thread
+|--x2 Green dragon leather tan-leather-spell-fire-staff
+   |--x2 Green dragonhide purchased_from_ge
+   |--x0.4 Nature rune purchased_from_ge
+   |--x0.8 Astral rune purchased_from_ge
+|--x1 Maple shield purchased_from_ge
+|--x15 Steel nails steel-anvil-smithing
+   |--x1.0005 Steel bar furnace-bar-smelting
+      |--x1.0005 Iron ore purchased_from_ge
+      |--x2.001 Coal purchased_from_ge
+Members: True
+Skills: {'crafting': {'lvl': 78, 'xp': 286}, 'smithing': {'lvl': 34, 'xp': 55.00875}}
+
+Tree ID: 6505011464797800662 --------
+x1 Ring of returning(5) lvl-2-enchant-air-staff
+|--x1 Emerald amulet gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 31, 'xp': 137.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 330983034129265523 --------
+x1 Ring of recoil lvl-1-enchant-water-staff
+|--x1 Sapphire ring gold-bar-furnace
+   |--x1 Sapphire chisel-gem-cut
+      |--x1 Uncut sapphire purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 20, 'xp': 90}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1275375356516104084 --------
+x1 Games necklace(8) lvl-1-enchant-water-staff
+|--x1 Sapphire necklace gold-bar-furnace
+   |--x1 Sapphire chisel-gem-cut
+      |--x1 Uncut sapphire purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 22, 'xp': 105}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6231151880201468522 --------
+x1 Bracelet of clay lvl-1-enchant-water-staff
+|--x1 Sapphire bracelet gold-bar-furnace
+   |--x1 Sapphire chisel-gem-cut
+      |--x1 Uncut sapphire purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 23, 'xp': 110}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4707305484502709512 --------
+x1 Amulet of magic lvl-1-enchant-water-staff
+|--x1 Sapphire amulet gold-bar-furnace
+   |--x1 Sapphire chisel-gem-cut
+      |--x1 Uncut sapphire purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 24, 'xp': 115}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3676850901566889491 --------
+x1 Ring of pursuit lvl-1-enchant-water-staff
+|--x1 Opal ring silver-bar-furnace
+   |--x1 Opal chisel-gem-cut
+      |--x1 Uncut opal purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 1, 'xp': 25}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 8657337485051787204 --------
+x1 Expeditious bracelet lvl-1-enchant-water-staff
+|--x1 Opal bracelet silver-bar-furnace
+   |--x1 Opal chisel-gem-cut
+      |--x1 Uncut opal purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 22, 'xp': 60}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 6307421313602067146 --------
+x1 Dodgy necklace lvl-1-enchant-water-staff
+|--x1 Opal necklace silver-bar-furnace
+   |--x1 Opal chisel-gem-cut
+      |--x1 Uncut opal purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 16, 'xp': 50}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 6133556309260116270 --------
+x1 Amulet of bounty lvl-1-enchant-water-staff
+|--x1 Opal amulet silver-bar-furnace
+   |--x1 Opal chisel-gem-cut
+      |--x1 Uncut opal purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 7, 'xp': 17.5}, 'crafting': {'lvl': 27, 'xp': 70}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 4443541681417866726 --------
+x1 Ring of dueling(8) lvl-2-enchant-air-staff
+|--x1 Emerald ring gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 27, 'xp': 122.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8565664815063804709 --------
+x1 Binding necklace lvl-2-enchant-air-staff
+|--x1 Emerald necklace gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 29, 'xp': 127.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1504039646888023392 --------
+x1 Castle wars bracelet(3) lvl-2-enchant-air-staff
+|--x1 Emerald bracelet gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 30, 'xp': 132.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3776936584772736356 --------
+x1 Amulet of defence lvl-2-enchant-air-staff
+|--x1 Emerald amulet gold-bar-furnace
+   |--x1 Emerald chisel-gem-cut
+      |--x1 Uncut emerald purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 31, 'xp': 137.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3779838046651448828 --------
+x1 Necklace of passage(5) lvl-2-enchant-air-staff
+|--x1 Jade necklace silver-bar-furnace
+   |--x1 Jade chisel-gem-cut
+      |--x1 Uncut jade purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 25, 'xp': 74}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 208555808480666948 --------
+x1 Flamtaer bracelet lvl-2-enchant-air-staff
+|--x1 Jade bracelet silver-bar-furnace
+   |--x1 Jade chisel-gem-cut
+      |--x1 Uncut jade purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 29, 'xp': 80}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 5448471444172172273 --------
+x1 Amulet of chemistry lvl-2-enchant-air-staff
+|--x1 Jade amulet silver-bar-furnace
+   |--x1 Jade chisel-gem-cut
+      |--x1 Uncut jade purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 27, 'xp': 37}, 'crafting': {'lvl': 34, 'xp': 90}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 8807117426825560341 --------
+x1 Ring of forging lvl-3-enchant-fire-staff
+|--x1 Ruby ring gold-bar-furnace
+   |--x1 Ruby chisel-gem-cut
+      |--x1 Uncut ruby purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 34, 'xp': 155}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8026000230798647027 --------
+x1 Inoculation bracelet lvl-3-enchant-fire-staff
+|--x1 Ruby bracelet gold-bar-furnace
+   |--x1 Ruby chisel-gem-cut
+      |--x1 Uncut ruby purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 42, 'xp': 165}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 3807375518952356022 --------
+x1 Amulet of strength lvl-3-enchant-fire-staff
+|--x1 Ruby amulet gold-bar-furnace
+   |--x1 Ruby chisel-gem-cut
+      |--x1 Uncut ruby purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 50, 'xp': 170}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1957023843456419539 --------
+x1 Digsite pendant lvl-3-enchant-fire-staff
+|--x1 Ruby necklace gold-bar-furnace
+   |--x1 Ruby chisel-gem-cut
+      |--x1 Uncut ruby purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 40, 'xp': 160}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 1651467933328076320 --------
+x1 Efaritay's aid lvl-3-enchant-fire-staff
+|--x1 Topaz ring silver-bar-furnace
+   |--x1 Red topaz chisel-gem-cut
+      |--x1 Uncut red topaz purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 16, 'xp': 60}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 939152886257159964 --------
+x1 Bracelet of slaughter lvl-3-enchant-fire-staff
+|--x1 Topaz bracelet silver-bar-furnace
+   |--x1 Red topaz chisel-gem-cut
+      |--x1 Uncut red topaz purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 38, 'xp': 100}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 6878154733957293205 --------
+x1 Necklace of faith lvl-3-enchant-fire-staff
+|--x1 Topaz necklace silver-bar-furnace
+   |--x1 Red topaz chisel-gem-cut
+      |--x1 Uncut red topaz purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 32, 'xp': 95}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 6551865062269357127 --------
+x1 Burning amulet lvl-3-enchant-fire-staff
+|--x1 Topaz amulet silver-bar-furnace
+   |--x1 Red topaz chisel-gem-cut
+      |--x1 Uncut red topaz purchased_from_ge
+   |--x1 Silver bar furnace-bar-smelting
+      |--x1 Silver ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 49, 'xp': 59}, 'crafting': {'lvl': 45, 'xp': 105}, 'smithing': {'lvl': 20, 'xp': 13.67}}
+
+Tree ID: 2862901542509551355 --------
+x1 Ring of life lvl-4-enchant-earth-staff
+|--x1 Diamond ring gold-bar-furnace
+   |--x1 Diamond chisel-gem-cut
+      |--x1 Uncut diamond purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 43, 'xp': 192.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6607673134653250285 --------
+x1 Phoenix necklace lvl-4-enchant-earth-staff
+|--x1 Diamond necklace gold-bar-furnace
+   |--x1 Diamond chisel-gem-cut
+      |--x1 Uncut diamond purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 56, 'xp': 197.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 8909371943755982735 --------
+x1 Abyssal bracelet lvl-4-enchant-earth-staff
+|--x1 Diamond bracelet gold-bar-furnace
+   |--x1 Diamond chisel-gem-cut
+      |--x1 Uncut diamond purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 58, 'xp': 202.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 112217087760794041 --------
+x1 Amulet of power lvl-4-enchant-earth-staff
+|--x1 Diamond amulet gold-bar-furnace
+   |--x1 Diamond chisel-gem-cut
+      |--x1 Uncut diamond purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 57, 'xp': 67}, 'crafting': {'lvl': 70, 'xp': 207.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4573011751024420923 --------
+x1 Ring of wealth lvl-5-enchant-water-staff
+|--x1 Dragonstone ring gold-bar-furnace
+   |--x1 Dragonstone chisel-gem-cut
+      |--x1 Uncut dragonstone purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 55, 'xp': 237.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6142038940267281455 --------
+x1 Skills necklace lvl-5-enchant-water-staff
+|--x1 Dragon necklace gold-bar-furnace
+   |--x1 Dragonstone chisel-gem-cut
+      |--x1 Uncut dragonstone purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 72, 'xp': 242.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5919519604444501103 --------
+x1 Combat bracelet lvl-5-enchant-water-staff
+|--x1 Dragonstone bracelet gold-bar-furnace
+   |--x1 Dragonstone chisel-gem-cut
+      |--x1 Uncut dragonstone purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 74, 'xp': 247.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2064796014684028392 --------
+x1 Amulet of glory lvl-5-enchant-water-staff
+|--x1 Dragonstone amulet gold-bar-furnace
+   |--x1 Dragonstone chisel-gem-cut
+      |--x1 Uncut dragonstone purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x15 Earth rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 68, 'xp': 78}, 'crafting': {'lvl': 80, 'xp': 287.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5927914081871774840 --------
+x1 Ring of stone lvl-6-enchant-lava-battlestaff
+|--x1 Onyx ring gold-bar-furnace
+   |--x1 Onyx chisel-gem-cut
+      |--x1 Uncut onyx purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 67, 'xp': 282.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2097892872351309455 --------
+x1 Berserker necklace lvl-6-enchant-lava-battlestaff
+|--x1 Onyx necklace gold-bar-furnace
+   |--x1 Onyx chisel-gem-cut
+      |--x1 Uncut onyx purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 82, 'xp': 287.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 6110660850670275835 --------
+x1 Regen bracelet lvl-6-enchant-lava-battlestaff
+|--x1 Onyx bracelet gold-bar-furnace
+   |--x1 Onyx chisel-gem-cut
+      |--x1 Uncut onyx purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 84, 'xp': 292.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 5704484091674802237 --------
+x1 Amulet of fury lvl-6-enchant-lava-battlestaff
+|--x1 Onyx amulet gold-bar-furnace
+   |--x1 Onyx chisel-gem-cut
+      |--x1 Uncut onyx purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 87, 'xp': 97}, 'crafting': {'lvl': 90, 'xp': 332.5}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 454601119651276697 --------
+x1 Ring of suffering lvl-7-enchant
+|--x1 Zenyte ring gold-bar-furnace
+   |--x1 Zenyte chisel-gem-cut
+      |--x1 Uncut zenyte purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 89, 'xp': 350}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 9105191653945548355 --------
+x1 Necklace of anguish lvl-7-enchant
+|--x1 Zenyte necklace gold-bar-furnace
+   |--x1 Zenyte chisel-gem-cut
+      |--x1 Uncut zenyte purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 92, 'xp': 365}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 4821117476522953442 --------
+x1 Tormented bracelet lvl-7-enchant
+|--x1 Zenyte bracelet gold-bar-furnace
+   |--x1 Zenyte chisel-gem-cut
+      |--x1 Uncut zenyte purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 95, 'xp': 380}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+
+Tree ID: 2329070666248909974 --------
+x1 Amulet of torture lvl-7-enchant
+|--x1 Zenyte amulet gold-bar-furnace
+   |--x1 Zenyte chisel-gem-cut
+      |--x1 Uncut zenyte purchased_from_ge
+   |--x1 Gold bar furnace-bar-smelting
+      |--x1 Gold ore purchased_from_ge
+|--x1 Cosmic rune purchased_from_ge
+|--x20 Blood rune purchased_from_ge
+|--x20 Soul rune purchased_from_ge
+Members: True
+Skills: {'magic': {'lvl': 93, 'xp': 110}, 'crafting': {'lvl': 98, 'xp': 400}, 'smithing': {'lvl': 40, 'xp': 22.5}}
+

@@ -1,0 +1,40 @@
+{
+	"21087": {
+		"id": "21087",
+		"name": "Topaz ring",
+		"method": [{
+			"name": "silver-bar-furnace",
+			"materials": [{
+					"id": "1613",
+					"quantity": 1
+				},
+				{
+					"id": "2355",
+					"quantity": 1
+				}
+			],
+		}]
+	},
+	"1613": {
+		"id": "1613",
+		"name": "Red topaz",
+		"method": [{
+			"name": "chisel-gem-cut",
+			"materials": [{
+				"id": "1629",
+				"quantity": 1
+			}],
+		}]
+	},
+	"2355": {
+		"id": "2355",
+		"name": "Silver bar",
+		"method": [{
+			"name": "furnace-bar-smelting",
+			"materials": [{
+				"id": "442",
+				"quantity": 1
+			}],
+		}]
+	}
+}

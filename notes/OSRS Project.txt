@@ -1,0 +1,89 @@
+OSRS Data Project
+-----------------------------
+
+Objective:
+
+ - Using data retrieved from various sources, create a complete view of profit and xp per hour across various skills in OSRS.
+
+Requirements: 
+
+ - Must retrieve latest data from GE, including current price and daily trading volume.
+ - Must consider time taken to smith/cook/high-alc/etc. item when determining profitability.
+ - Must show GE profit plus high alch profit (when buying nature runes).
+ - Must show a "Material cost" field for relevant items, determined by adding up GE prices. If raw materials have their own raw materials, e.g.: steel sword > steel bar > iron/coal ore, then calculate each "level" in seperate column.
+ - Must have a skill level field, which can be filtered.
+ - Must have skill associated with, to be filtered on, e.g.: "Smithing", "Crafting", "Cooking". This can inlcude something used in the process (ore for smithing) plus something which is the product of the process (steel sword for smithing).
+			  
+Example:
+
+ - I want to see that a low costing item with high trading volume can be quickly crafted into a higher selling item for good profit and xp, such as gold bars crafted into gold amulets.
+ 
+Notes:
+
+ - Python will be primary language used.
+ - Would like to use some database as well, maybe BigQuery.
+ - Starting with crafting as a POC
+ - Data extracting phases will likely take a while, so perhaps splitting by skill is a good idea.
+ - Profit / Hour is requires knowing how many items can be created in an hour.
+			  
+------------------------------
+
+Data Sources:
+
+Items:
+ - https://www.osrsbox.com/projects/osrsbox-db/
+ - Has python package.
+ - Contains High-Alch values
+ - items-complete: https://www.osrsbox.com/osrsbox-db/items-complete.json
+ - items-summary: https://www.osrsbox.com/osrsbox-db/items-summary.json
+ 
+ 
+GE Prices:
+ - http://services.runescape.com/m=itemdb_oldschool/api/catalogue/detail.json?item=[Item ID]
+ - Shows current trading price, plus trends over time.
+
+
+GE Trade Volumes:
+ - http://services.runescape.com/m=itemdb_oldschool/viewitem?obj=[Item ID]
+ - The "trade30" JS object will return past 30 days of trading volumes.
+ - Use selenium to execute this JS on the page.
+ - Trading volumes flucuate wildly, so using min/avg/med is advised.
+
+
+Skill Information:
+ - Need to collect all item ids of all items that are used for a particular skill.
+ - Need XP earned for creating item.
+ - Need level requirement.
+ - Need raw materials used to create item as array of item ids.
+ - Each skill with have its own table to be joined to.
+
+ - Crafting:
+    - https://oldschool.runescape.wiki/w/Crafting
+	- All jewellery: https://oldschool.runescape.wiki/w/Jewellery
+	- Jewellery is made using furnace and cut gem
+	- Gems can be cut with chisel.
+	- Leather/Dragonhide requires tanning
+	
+	
+---------------------------------
+
+Misc Notes
+
+ - In order to get all items associated with skill, scrape main skill page for 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
