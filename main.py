@@ -29,20 +29,40 @@ from datetime import date
 PATH_TO_ITEM_FILES = 'items/'
 PATH_TO_OUTPUT_FILES = 'output/'
 
-API_REQUEST_INTERVAL_SECS = 4.5
+API_REQUEST_INTERVAL_SECS = 8.5
 API_REQUEST_ATTEMPT_LIMIT = 5
 
 def get_item_html_ge(id):
+    """[summary].
+
+    Args:
+        id ([type]): [description]
+
+    Returns:
+        [type]: [description]
+    """
     url = 'http://services.runescape.com/m=itemdb_oldschool/viewitem?obj=' + str(id)
     response = requests.get(url)    
     if(response.status_code == 200):
         return response.text   
     
 def get_avg(lst):
+    """[summary].
+
+    Args:
+        lst ([type]): [description]
+
+    Returns:
+        [type]: [description]
+    """
     return sum(lst) / len(lst)
     
 def get_all_json_item_ids():
+    """[summary].
 
+    Returns:
+        [type]: [description]
+    """
     json_files = os.listdir(PATH_TO_ITEM_FILES)
     
     result = []
@@ -70,9 +90,17 @@ def get_all_json_item_ids():
         
 
 def get_ge_data(all_item_data):
-    
-    ''' For each JSON in the items directory, get all items and raw materials '''
-    
+    """For each JSON in the items directory, get all items and raw materials.
+
+    Args:
+        all_item_data ([type]): [description]
+
+    Raises:
+        Exception: [description]
+
+    Returns:
+        [type]: [description]
+    """    
     # GE data will be stored daily
     today = date.today().strftime("%Y_%m_%d")
     #today = "2019_10_05"
@@ -106,6 +134,15 @@ def get_ge_data(all_item_data):
             item_name = item['name']
         
             print('[{}/{}] Fetching GE data for item [{}]'.format((index+1), len(all_item_ids), item_name))
+
+            # TODO - Add a try/catch here as it keeps failing with this error:
+            #   File "C:\Users\James\Documents\GitHub\python\osrs\main.py", line 323, in <module>
+            #     ge_data = get_ge_data(all_item_data)
+            #   File "C:\Users\James\Documents\GitHub\python\osrs\main.py", line 149, in get_ge_data
+            #     amount_traded_180 = [int(i) for i in re.findall(r'trade180\.push.*, (.*)]\)', item_html_ge)]
+            #   File "C:\Users\James\AppData\Local\Programs\Python\Python39\lib\re.py", line 241, in findall
+            #     return _compile(pattern, flags).findall(string)
+            # TypeError: expected string or bytes-like object
                
             # Only fetch GE data for items available on GE
             if item['tradeable_on_ge'] == 1:
@@ -157,11 +194,28 @@ def get_ge_data(all_item_data):
     return result           
 
 def get_nature_rune_price(ge_data):
+    """[summary].
+
+    Args:
+        ge_data ([type]): [description]
+
+    Returns:
+        [type]: [description]
+    """
     nature_rune_id = '561'
     return ge_data[nature_rune_id]['current']
 
 def build_method_rows(all_trees, all_item_data, ge_data):
-    
+    """[summary].
+
+    Args:
+        all_trees ([type]): [description]
+        all_item_data ([type]): [description]
+        ge_data ([type]): [description]
+
+    Returns:
+        [type]: [description]
+    """    
     rows = []
     
     for tree_id in all_trees:
@@ -230,7 +284,11 @@ def build_method_rows(all_trees, all_item_data, ge_data):
 
 
 def output_to_csv(row_data):
-            
+    """[summary].
+
+    Args:
+        row_data ([type]): [description]
+    """            
     # Use poandas to save json to csv
     output_df = pd.DataFrame(row_data)
     
